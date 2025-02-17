@@ -1,0 +1,16 @@
+import org.testng.annotations.Test;
+
+public class Temp3 extends Temp2 {
+    public Temp3(int a) {
+		super(a);
+		// TODO Auto-generated constructor stub
+	}
+
+	@Test
+	public void print() {
+		Temp2 k = new Temp2(3);
+		System.out.println(k.sub(5));
+		System.out.println(k.sum(5));
+	}
+
+}

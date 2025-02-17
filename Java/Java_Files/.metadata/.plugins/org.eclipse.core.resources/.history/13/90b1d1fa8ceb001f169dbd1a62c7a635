@@ -1,0 +1,15 @@
+
+public class Temp {
+
+	public static void main(String[] args) {
+		String str = "hi thig here";
+		String m = "";
+		
+		for (int i = 0; i <str.length();i++)
+		{
+			m = m + str.charAt(i);
+		}
+System.out.println(m);
+	}
+
+}

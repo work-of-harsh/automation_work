@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-01-20T19:49:08 IST" name="Default suite" finished-at="2025-01-20T19:49:08 IST" duration-ms="80">
+    <groups>
+    </groups>
+    <test started-at="2025-01-20T19:49:08 IST" name="Default test" finished-at="2025-01-20T19:49:08 IST" duration-ms="80">
+      <class name="Encapsulation">
+        <test-method signature="enc1()[pri:0, instance:Encapsulation@48974e45]" started-at="2025-01-20T19:49:08 IST" name="enc1" finished-at="2025-01-20T19:49:08 IST" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enc1 -->
+      </class> <!-- Encapsulation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

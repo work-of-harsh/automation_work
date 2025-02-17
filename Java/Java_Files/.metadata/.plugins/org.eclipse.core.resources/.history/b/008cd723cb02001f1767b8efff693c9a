@@ -1,0 +1,44 @@
+
+public class Methods_Demo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Methods_Demo  d = new Methods_Demo ();  //Creating d object from "Methods_Demo()" class.
+
+		String name = d.getData();   // calling "getData()"  method through "object. getData()" returns string.
+
+		System.out.println(name);
+
+		Methods_Class d1 = new Methods_Class();   //Creating d1 object from "Methods_Class()" from "Methods_Class" java file.
+
+		d1.getUserData();         
+
+		getData2();     //no need to create object as getData2() is static method.
+
+}
+
+  //method has to be declared outside main block 
+	public String getData()  //string is returned in this method so we use "String" instead of void.
+
+	{
+
+	System.out.println ("hello world"); 
+
+	return "rahul shetty";
+
+	}
+
+
+
+	public static String getData2()  //Declaring  static method to provide class level access to the method.
+
+	{
+
+	System.out.println ("hello world");
+
+	return "rahul shetty"; 
+
+
+	}
+
+}

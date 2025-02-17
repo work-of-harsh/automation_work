@@ -1,0 +1,9 @@
+
+public class Parent1 {
+
+	public void dothis() {
+		System.out.println("inheritance successful");
+
+	}
+
+}

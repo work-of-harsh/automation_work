@@ -1,0 +1,520 @@
+2024-01-21 14:19:08,478 :INFO : test_e2e :getting all the card titles
+2024-01-21 14:19:15,702 :INFO : test_e2e :Entering country name as ind
+2024-01-23 10:42:41,655 :INFO : test_e2e :getting all the card titles
+2024-01-23 10:43:06,810 :INFO : test_e2e :Entering country name as ind
+2024-01-23 10:49:00,093 :INFO : test_e2e :getting all the card titles
+2024-01-23 10:49:22,885 :INFO : test_e2e :Entering country name as ind
+2024-01-24 08:24:04,012 :INFO : test_e2e :getting all the card titles
+2024-01-24 08:24:08,413 :INFO : test_e2e :Entering country name as ind
+2024-01-24 08:37:58,921 :INFO : test_e2e :getting all the card titles
+2024-01-24 08:38:49,286 :INFO : test_e2e :Entering country name as ind
+2024-01-24 08:54:57,906 :INFO : test_e2e :getting all the card titles
+2024-01-24 08:55:03,314 :INFO : test_e2e :Entering country name as ind
+2024-01-24 09:08:33,116 :INFO : test_e2e :getting all the card titles
+2024-01-24 09:08:43,582 :INFO : test_e2e :Entering country name as ind
+2024-01-25 09:00:32,626 :INFO : test_e2e :getting all the card titles
+2024-01-25 09:00:41,520 :INFO : test_e2e :Entering country name as ind
+2024-01-26 08:34:21,759 :INFO : test_e2e :getting all the card titles
+2024-01-26 08:34:32,585 :INFO : test_e2e :Entering country name as ind
+2024-02-11 13:52:25,572 :INFO : test_e2e :getting all the card titles
+2024-02-11 13:52:37,427 :INFO : test_e2e :Entering country name as ind
+2024-02-11 14:28:28,661 :INFO : test_e2e :getting all the card titles
+2024-02-11 14:28:37,996 :INFO : test_e2e :Entering country name as ind
+2024-02-11 14:29:47,764 :INFO : test_e2e :getting all the card titles
+2024-02-11 14:29:49,060 :INFO : test_e2e :Entering country name as ind
+2024-02-12 08:32:51,839 :INFO : test_e2e :getting all the card titles
+2024-02-12 08:33:00,739 :INFO : test_e2e :Entering country name as ind
+2024-02-12 08:40:03,757 :INFO : test_e2e :getting all the card titles
+2024-02-12 08:40:04,273 :INFO : test_e2e :Entering country name as ind
+2024-02-12 08:56:35,299 :INFO : test_e2e :Entering country name as ind
+2024-02-12 08:58:13,030 :INFO : test_e2e :getting all the card titles
+2024-02-12 09:00:57,436 :INFO : test_e2e :getting all the card titles
+2024-02-12 09:00:57,951 :INFO : test_e2e :Entering country name as ind
+2024-02-13 07:57:50,768 :INFO : test_e2e :getting all the card titles
+2024-02-13 07:58:00,794 :INFO : test_e2e :Entering country name as ind
+2024-02-13 21:32:09,227 :INFO : test_e2e :getting all the card titles
+2024-02-13 21:32:15,527 :INFO : test_e2e :Entering country name as ind
+2024-02-13 21:32:52,143 :INFO : test_e2e :getting all the card titles
+2024-02-13 21:32:53,394 :INFO : test_e2e :Entering country name as ind
+2024-02-18 15:54:06,308 :INFO : test_e2e :getting all the card titles
+2024-02-18 15:54:17,742 :INFO : test_e2e :Entering country name as ind
+2024-02-18 16:00:04,128 :INFO : test_e2e :getting all the card titles
+2024-02-18 16:00:12,183 :INFO : test_e2e :Entering country name as ind
+2024-02-18 16:01:17,980 :INFO : test_e2e :getting all the card titles
+2024-02-18 16:01:18,854 :INFO : test_e2e :Entering country name as ind
+2024-03-12 21:43:51,656 :INFO : test_e2e :getting all the card titles
+2024-03-12 21:44:13,960 :INFO : test_e2e :Entering country name as ind
+2024-03-12 21:45:51,010 :INFO : test_e2e :getting all the card titles
+2024-03-12 21:45:56,916 :INFO : test_e2e :Entering country name as ind
+2024-03-12 22:00:51,324 :INFO : test_e2e :getting all the card titles
+2024-03-12 22:00:54,954 :INFO : test_e2e :Entering country name as ind
+2024-03-12 22:03:52,678 :INFO : test_e2e :getting all the card titles
+2024-03-12 22:04:04,721 :INFO : test_e2e :Entering country name as ind
+2024-03-12 22:06:47,861 :INFO : test_e2e :getting all the card titles
+2024-03-12 22:07:22,486 :INFO : test_e2e :getting all the card titles
+2024-03-12 22:17:12,688 :INFO : test_e2e :getting all the card titles
+2024-03-12 22:17:19,689 :INFO : test_e2e :Entering country name as ind
+2024-03-12 22:22:31,479 :INFO : test_e2e :getting all the card titles
+2024-03-12 22:22:32,055 :INFO : test_e2e :Entering country name as ind
+2024-03-12 22:32:31,615 :INFO : test_e2e :getting all the card titles
+2024-03-12 22:32:32,156 :INFO : test_e2e :Entering country name as ind
+2024-03-12 22:45:03,842 :INFO : test_e2e :getting all the card titles
+2024-03-12 22:45:04,385 :INFO : test_e2e :Entering country name as ind
+2024-03-12 22:53:44,356 :INFO : test_e2e :getting all the card titles
+2024-03-12 22:53:44,938 :INFO : test_e2e :Entering country name as ind
+2024-03-12 22:57:30,959 :INFO : test_e2e :getting all the card titles
+2024-03-12 22:57:31,557 :INFO : test_e2e :Entering country name as ind
+2024-03-12 22:59:02,860 :INFO : test_e2e :getting all the card titles
+2024-03-12 22:59:03,391 :INFO : test_e2e :Entering country name as ind
+2024-03-12 22:59:57,777 :INFO : test_e2e :getting all the card titles
+2024-03-12 23:00:03,352 :INFO : test_e2e :Entering country name as ind
+2024-03-12 23:01:51,149 :INFO : test_e2e :getting all the card titles
+2024-03-12 23:01:51,707 :INFO : test_e2e :Entering country name as ind
+2024-03-12 23:18:53,868 :INFO : test_e2e :getting all the card titles
+2024-03-12 23:18:54,489 :INFO : test_e2e :Entering country name as ind
+2024-03-12 23:20:05,591 :INFO : test_e2e :getting all the card titles
+2024-03-12 23:20:06,141 :INFO : test_e2e :Entering country name as ind
+2024-03-12 23:24:57,514 :INFO : test_e2e :getting all the card titles
+2024-03-12 23:25:03,088 :INFO : test_e2e :Entering country name as ind
+2024-03-12 23:30:32,281 :INFO : test_e2e :getting all the card titles
+2024-03-12 23:30:32,832 :INFO : test_e2e :Entering country name as ind
+2024-03-13 09:01:06,302 :INFO : test_e2e :getting all the card titles
+2024-03-13 09:01:19,547 :INFO : test_e2e :Entering country name as ind
+2024-03-13 09:05:13,266 :INFO : test_e2e :getting all the card titles
+2024-03-13 09:05:18,903 :INFO : test_e2e :Entering country name as ind
+2024-03-13 09:06:19,248 :INFO : test_e2e :getting all the card titles
+2024-03-13 09:06:24,911 :INFO : test_e2e :Entering country name as ind
+2024-03-13 09:07:28,066 :INFO : test_e2e :getting all the card titles
+2024-03-13 09:07:28,604 :INFO : test_e2e :Entering country name as ind
+2024-03-15 09:07:37,911 :INFO : test_e2e :getting all the card titles
+2024-03-15 09:07:49,206 :INFO : test_e2e :Entering country name as ind
+2024-03-15 09:21:05,257 :INFO : test_e2e :getting all the card titles
+2024-03-15 09:21:06,811 :INFO : test_e2e :Entering country name as ind
+2024-03-15 09:22:37,360 :INFO : test_e2e :getting all the card titles
+2024-03-15 09:22:37,360 :INFO : test_e2e :getting all the card titles
+2024-03-15 09:22:54,902 :INFO : test_e2e :Entering country name as ind
+2024-03-15 09:22:54,902 :INFO : test_e2e :Entering country name as ind
+2024-04-03 18:44:03,586 :INFO : test_e2e :getting all the card titles
+2024-04-03 18:44:13,345 :INFO : test_e2e :Entering country name as ind
+2024-04-03 18:45:47,923 :INFO : test_e2e :getting all the card titles
+2024-04-03 18:45:47,923 :INFO : test_e2e :getting all the card titles
+2024-04-03 18:45:53,384 :INFO : test_e2e :Entering country name as ind
+2024-04-03 18:45:53,384 :INFO : test_e2e :Entering country name as ind
+2024-04-03 18:48:02,107 :INFO : test_e2e :getting all the card titles
+2024-04-03 18:48:06,875 :INFO : test_e2e :Entering country name as ind
+2024-04-03 18:48:27,908 :INFO : test_e2e :getting all the card titles
+2024-04-03 18:48:27,908 :INFO : test_e2e :getting all the card titles
+2024-04-03 18:48:30,331 :INFO : test_e2e :Entering country name as ind
+2024-04-03 18:48:30,331 :INFO : test_e2e :Entering country name as ind
+2024-05-03 11:21:47,550 :INFO : test_e2e :getting all the card titles
+2024-05-03 11:22:14,030 :INFO : test_e2e :Entering country name as ind
+2024-05-03 11:24:11,578 :INFO : test_e2e :getting all the card titles
+2024-05-03 11:24:11,578 :INFO : test_e2e :getting all the card titles
+2024-05-03 11:24:18,688 :INFO : test_e2e :Entering country name as ind
+2024-05-03 11:24:18,688 :INFO : test_e2e :Entering country name as ind
+2024-05-03 11:25:51,703 :INFO : test_e2e :getting all the card titles
+2024-05-03 11:26:06,654 :INFO : test_e2e :Entering country name as ind
+2024-05-03 11:26:32,252 :INFO : test_e2e :getting all the card titles
+2024-05-03 11:26:32,252 :INFO : test_e2e :getting all the card titles
+2024-05-03 11:26:34,214 :INFO : test_e2e :Entering country name as ind
+2024-05-03 11:26:34,214 :INFO : test_e2e :Entering country name as ind
+2024-12-13 10:13:45,347 :INFO : test_e2e :getting all the card titles
+2024-12-13 10:14:03,148 :INFO : test_e2e :Entering country name as ind
+2024-12-13 10:15:03,290 :INFO : test_e2e :getting all the card titles
+2024-12-13 10:15:03,290 :INFO : test_e2e :getting all the card titles
+2024-12-13 10:15:09,096 :INFO : test_e2e :Entering country name as ind
+2024-12-13 10:15:09,096 :INFO : test_e2e :Entering country name as ind
+2025-02-04 09:01:23,369 :INFO : test_e2e :getting all the card titles
+2025-02-04 09:01:28,694 :INFO : test_e2e :Entering country name as ind
+2025-02-04 09:01:52,107 :INFO : test_e2e :getting all the card titles
+2025-02-04 09:01:52,107 :INFO : test_e2e :getting all the card titles
+2025-02-04 09:01:52,656 :INFO : test_e2e :Entering country name as ind
+2025-02-04 09:01:52,656 :INFO : test_e2e :Entering country name as ind
+2025-02-04 09:03:10,414 :INFO : test_e2e :getting all the card titles
+2025-02-04 09:03:10,414 :INFO : test_e2e :getting all the card titles
+2025-02-04 09:03:10,414 :INFO : test_e2e :getting all the card titles
+2025-02-04 09:03:12,944 :INFO : test_e2e :Entering country name as ind
+2025-02-04 09:03:12,944 :INFO : test_e2e :Entering country name as ind
+2025-02-04 09:03:12,944 :INFO : test_e2e :Entering country name as ind
+2025-02-04 09:03:37,528 :INFO : test_e2e :getting all the card titles
+2025-02-04 09:03:37,528 :INFO : test_e2e :getting all the card titles
+2025-02-04 09:03:37,528 :INFO : test_e2e :getting all the card titles
+2025-02-04 09:03:37,528 :INFO : test_e2e :getting all the card titles
+2025-02-04 09:03:38,769 :INFO : test_e2e :Entering country name as ind
+2025-02-04 09:03:38,769 :INFO : test_e2e :Entering country name as ind
+2025-02-04 09:03:38,769 :INFO : test_e2e :Entering country name as ind
+2025-02-04 09:03:38,769 :INFO : test_e2e :Entering country name as ind
+2025-02-04 09:13:55,437 :INFO : test_e2e :getting all the card titles
+2025-02-04 09:13:59,050 :INFO : test_e2e :Entering country name as ind
+2025-02-04 09:15:07,957 :INFO : test_e2e :getting all the card titles
+2025-02-04 09:15:07,957 :INFO : test_e2e :getting all the card titles
+2025-02-04 09:15:12,117 :INFO : test_e2e :Entering country name as ind
+2025-02-04 09:15:12,117 :INFO : test_e2e :Entering country name as ind
+2025-02-04 09:16:29,212 :INFO : test_e2e :getting all the card titles
+2025-02-04 09:16:36,261 :INFO : test_e2e :Entering country name as ind
+2025-02-04 09:17:03,874 :INFO : test_e2e :getting all the card titles
+2025-02-04 09:17:03,874 :INFO : test_e2e :getting all the card titles
+2025-02-04 09:17:05,170 :INFO : test_e2e :Entering country name as ind
+2025-02-04 09:17:05,170 :INFO : test_e2e :Entering country name as ind
+2025-02-04 09:18:37,766 :INFO : test_e2e :getting all the card titles
+2025-02-04 09:18:38,399 :INFO : test_e2e :Entering country name as ind
+2025-02-04 09:18:59,308 :INFO : test_e2e :getting all the card titles
+2025-02-04 09:18:59,308 :INFO : test_e2e :getting all the card titles
+2025-02-04 09:19:00,596 :INFO : test_e2e :Entering country name as ind
+2025-02-04 09:19:00,596 :INFO : test_e2e :Entering country name as ind
+2025-02-04 09:20:43,838 :INFO : test_e2e :getting all the card titles
+2025-02-04 09:20:49,491 :INFO : test_e2e :Entering country name as ind
+2025-02-04 09:21:15,412 :INFO : test_e2e :getting all the card titles
+2025-02-04 09:21:15,412 :INFO : test_e2e :getting all the card titles
+2025-02-04 09:21:16,644 :INFO : test_e2e :Entering country name as ind
+2025-02-04 09:21:16,644 :INFO : test_e2e :Entering country name as ind
+2025-02-04 09:23:33,630 :INFO : test_e2e :getting all the card titles
+2025-02-04 09:23:34,197 :INFO : test_e2e :Entering country name as ind
+2025-02-04 09:23:53,846 :INFO : test_e2e :getting all the card titles
+2025-02-04 09:23:53,846 :INFO : test_e2e :getting all the card titles
+2025-02-04 09:23:55,111 :INFO : test_e2e :Entering country name as ind
+2025-02-04 09:23:55,111 :INFO : test_e2e :Entering country name as ind
+2025-02-04 09:25:06,960 :INFO : test_e2e :getting all the card titles
+2025-02-04 09:25:07,673 :INFO : test_e2e :Entering country name as ind
+2025-02-04 09:25:27,235 :INFO : test_e2e :getting all the card titles
+2025-02-04 09:25:27,235 :INFO : test_e2e :getting all the card titles
+2025-02-04 09:25:33,171 :INFO : test_e2e :Entering country name as ind
+2025-02-04 09:25:33,171 :INFO : test_e2e :Entering country name as ind
+2025-02-04 09:25:55,428 :INFO : test_e2e :getting all the card titles
+2025-02-04 09:25:55,428 :INFO : test_e2e :getting all the card titles
+2025-02-04 09:25:55,428 :INFO : test_e2e :getting all the card titles
+2025-02-04 09:25:56,706 :INFO : test_e2e :Entering country name as ind
+2025-02-04 09:25:56,706 :INFO : test_e2e :Entering country name as ind
+2025-02-04 09:25:56,706 :INFO : test_e2e :Entering country name as ind
+2025-02-04 09:26:17,511 :INFO : test_e2e :getting all the card titles
+2025-02-04 09:26:17,511 :INFO : test_e2e :getting all the card titles
+2025-02-04 09:26:17,511 :INFO : test_e2e :getting all the card titles
+2025-02-04 09:26:17,511 :INFO : test_e2e :getting all the card titles
+2025-02-04 09:26:18,748 :INFO : test_e2e :Entering country name as ind
+2025-02-04 09:26:18,748 :INFO : test_e2e :Entering country name as ind
+2025-02-04 09:26:18,748 :INFO : test_e2e :Entering country name as ind
+2025-02-04 09:26:18,748 :INFO : test_e2e :Entering country name as ind
+2025-02-04 09:58:37,612 :INFO : test_e2e :getting all the card titles
+2025-02-04 09:58:46,010 :INFO : test_e2e :Entering country name as ind
+2025-02-04 09:59:09,965 :INFO : test_e2e :getting all the card titles
+2025-02-04 09:59:09,965 :INFO : test_e2e :getting all the card titles
+2025-02-04 09:59:10,886 :INFO : test_e2e :Entering country name as ind
+2025-02-04 09:59:10,886 :INFO : test_e2e :Entering country name as ind
+2025-02-04 09:59:47,592 :INFO : test_e2e :getting all the card titles
+2025-02-04 09:59:47,592 :INFO : test_e2e :getting all the card titles
+2025-02-04 09:59:47,592 :INFO : test_e2e :getting all the card titles
+2025-02-04 09:59:52,478 :INFO : test_e2e :Entering country name as ind
+2025-02-04 09:59:52,478 :INFO : test_e2e :Entering country name as ind
+2025-02-04 09:59:52,478 :INFO : test_e2e :Entering country name as ind
+2025-02-04 10:00:15,683 :INFO : test_e2e :getting all the card titles
+2025-02-04 10:00:15,683 :INFO : test_e2e :getting all the card titles
+2025-02-04 10:00:15,683 :INFO : test_e2e :getting all the card titles
+2025-02-04 10:00:15,683 :INFO : test_e2e :getting all the card titles
+2025-02-04 10:00:17,042 :INFO : test_e2e :Entering country name as ind
+2025-02-04 10:00:17,042 :INFO : test_e2e :Entering country name as ind
+2025-02-04 10:00:17,042 :INFO : test_e2e :Entering country name as ind
+2025-02-04 10:00:17,042 :INFO : test_e2e :Entering country name as ind
+2025-02-04 10:01:22,997 :INFO : test_e2e :getting all the card titles
+2025-02-04 10:01:22,997 :INFO : test_e2e :getting all the card titles
+2025-02-04 10:01:22,997 :INFO : test_e2e :getting all the card titles
+2025-02-04 10:01:22,997 :INFO : test_e2e :getting all the card titles
+2025-02-04 10:01:22,997 :INFO : test_e2e :getting all the card titles
+2025-02-04 10:01:23,545 :INFO : test_e2e :Entering country name as ind
+2025-02-04 10:01:23,545 :INFO : test_e2e :Entering country name as ind
+2025-02-04 10:01:23,545 :INFO : test_e2e :Entering country name as ind
+2025-02-04 10:01:23,545 :INFO : test_e2e :Entering country name as ind
+2025-02-04 10:01:23,545 :INFO : test_e2e :Entering country name as ind
+2025-02-04 10:01:41,612 :INFO : test_e2e :getting all the card titles
+2025-02-04 10:01:41,612 :INFO : test_e2e :getting all the card titles
+2025-02-04 10:01:41,612 :INFO : test_e2e :getting all the card titles
+2025-02-04 10:01:41,612 :INFO : test_e2e :getting all the card titles
+2025-02-04 10:01:41,612 :INFO : test_e2e :getting all the card titles
+2025-02-04 10:01:41,612 :INFO : test_e2e :getting all the card titles
+2025-02-04 10:01:42,171 :INFO : test_e2e :Entering country name as ind
+2025-02-04 10:01:42,171 :INFO : test_e2e :Entering country name as ind
+2025-02-04 10:01:42,171 :INFO : test_e2e :Entering country name as ind
+2025-02-04 10:01:42,171 :INFO : test_e2e :Entering country name as ind
+2025-02-04 10:01:42,171 :INFO : test_e2e :Entering country name as ind
+2025-02-04 10:01:42,171 :INFO : test_e2e :Entering country name as ind
+2025-02-04 10:02:06,897 :INFO : test_e2e :getting all the card titles
+2025-02-04 10:02:06,897 :INFO : test_e2e :getting all the card titles
+2025-02-04 10:02:06,897 :INFO : test_e2e :getting all the card titles
+2025-02-04 10:02:06,897 :INFO : test_e2e :getting all the card titles
+2025-02-04 10:02:06,897 :INFO : test_e2e :getting all the card titles
+2025-02-04 10:02:06,897 :INFO : test_e2e :getting all the card titles
+2025-02-04 10:02:06,897 :INFO : test_e2e :getting all the card titles
+2025-02-04 10:02:08,162 :INFO : test_e2e :Entering country name as ind
+2025-02-04 10:02:08,162 :INFO : test_e2e :Entering country name as ind
+2025-02-04 10:02:08,162 :INFO : test_e2e :Entering country name as ind
+2025-02-04 10:02:08,162 :INFO : test_e2e :Entering country name as ind
+2025-02-04 10:02:08,162 :INFO : test_e2e :Entering country name as ind
+2025-02-04 10:02:08,162 :INFO : test_e2e :Entering country name as ind
+2025-02-04 10:02:08,162 :INFO : test_e2e :Entering country name as ind
+2025-02-04 10:02:28,079 :INFO : test_e2e :getting all the card titles
+2025-02-04 10:02:28,079 :INFO : test_e2e :getting all the card titles
+2025-02-04 10:02:28,079 :INFO : test_e2e :getting all the card titles
+2025-02-04 10:02:28,079 :INFO : test_e2e :getting all the card titles
+2025-02-04 10:02:28,079 :INFO : test_e2e :getting all the card titles
+2025-02-04 10:02:28,079 :INFO : test_e2e :getting all the card titles
+2025-02-04 10:02:28,079 :INFO : test_e2e :getting all the card titles
+2025-02-04 10:02:28,079 :INFO : test_e2e :getting all the card titles
+2025-02-04 10:02:29,337 :INFO : test_e2e :Entering country name as ind
+2025-02-04 10:02:29,337 :INFO : test_e2e :Entering country name as ind
+2025-02-04 10:02:29,337 :INFO : test_e2e :Entering country name as ind
+2025-02-04 10:02:29,337 :INFO : test_e2e :Entering country name as ind
+2025-02-04 10:02:29,337 :INFO : test_e2e :Entering country name as ind
+2025-02-04 10:02:29,337 :INFO : test_e2e :Entering country name as ind
+2025-02-04 10:02:29,337 :INFO : test_e2e :Entering country name as ind
+2025-02-04 10:02:29,337 :INFO : test_e2e :Entering country name as ind
+2025-02-04 10:08:56,849 :INFO : test_e2e :getting all the card titles
+2025-02-04 10:08:57,604 :INFO : test_e2e :Entering country name as ind
+2025-02-04 10:09:03,483 :INFO : test_e2e :Shopping Success
+2025-02-04 10:09:42,871 :INFO : test_e2e :getting all the card titles
+2025-02-04 10:09:42,871 :INFO : test_e2e :getting all the card titles
+2025-02-04 10:09:43,394 :INFO : test_e2e :Entering country name as ind
+2025-02-04 10:09:43,394 :INFO : test_e2e :Entering country name as ind
+2025-02-04 10:09:48,692 :INFO : test_e2e :Shopping Success
+2025-02-04 10:09:48,692 :INFO : test_e2e :Shopping Success
+2025-02-04 10:10:08,542 :INFO : test_e2e :getting all the card titles
+2025-02-04 10:10:08,542 :INFO : test_e2e :getting all the card titles
+2025-02-04 10:10:08,542 :INFO : test_e2e :getting all the card titles
+2025-02-04 10:10:11,822 :INFO : test_e2e :Entering country name as ind
+2025-02-04 10:10:11,822 :INFO : test_e2e :Entering country name as ind
+2025-02-04 10:10:11,822 :INFO : test_e2e :Entering country name as ind
+2025-02-04 10:10:17,667 :INFO : test_e2e :Shopping Success
+2025-02-04 10:10:17,667 :INFO : test_e2e :Shopping Success
+2025-02-04 10:10:17,667 :INFO : test_e2e :Shopping Success
+2025-02-04 10:10:32,405 :INFO : test_e2e :getting all the card titles
+2025-02-04 10:10:32,405 :INFO : test_e2e :getting all the card titles
+2025-02-04 10:10:32,405 :INFO : test_e2e :getting all the card titles
+2025-02-04 10:10:32,405 :INFO : test_e2e :getting all the card titles
+2025-02-04 10:10:33,685 :INFO : test_e2e :Entering country name as ind
+2025-02-04 10:10:33,685 :INFO : test_e2e :Entering country name as ind
+2025-02-04 10:10:33,685 :INFO : test_e2e :Entering country name as ind
+2025-02-04 10:10:33,685 :INFO : test_e2e :Entering country name as ind
+2025-02-04 10:10:39,424 :INFO : test_e2e :Shopping Success
+2025-02-04 10:10:39,424 :INFO : test_e2e :Shopping Success
+2025-02-04 10:10:39,424 :INFO : test_e2e :Shopping Success
+2025-02-04 10:10:39,424 :INFO : test_e2e :Shopping Success
+2025-02-04 10:20:42,082 :INFO : test_e2e :getting all the card titles
+2025-02-04 10:20:46,329 :INFO : test_e2e :Entering country name as ind
+2025-02-04 10:20:57,194 :INFO : test_e2e :Shopping Success
+2025-02-04 10:21:06,036 :INFO : test_e2e :getting all the card titles
+2025-02-04 10:21:06,036 :INFO : test_e2e :getting all the card titles
+2025-02-04 10:21:06,618 :INFO : test_e2e :Entering country name as ind
+2025-02-04 10:21:06,618 :INFO : test_e2e :Entering country name as ind
+2025-02-04 10:21:12,022 :INFO : test_e2e :Shopping Success
+2025-02-04 10:21:12,022 :INFO : test_e2e :Shopping Success
+2025-02-04 10:22:05,762 :INFO : test_e2e :getting all the card titles
+2025-02-04 10:22:05,762 :INFO : test_e2e :getting all the card titles
+2025-02-04 10:22:05,762 :INFO : test_e2e :getting all the card titles
+2025-02-04 10:22:10,799 :INFO : test_e2e :Entering country name as ind
+2025-02-04 10:22:10,799 :INFO : test_e2e :Entering country name as ind
+2025-02-04 10:22:10,799 :INFO : test_e2e :Entering country name as ind
+2025-02-04 10:22:33,723 :INFO : test_e2e :getting all the card titles
+2025-02-04 10:22:33,723 :INFO : test_e2e :getting all the card titles
+2025-02-04 10:22:33,723 :INFO : test_e2e :getting all the card titles
+2025-02-04 10:22:33,723 :INFO : test_e2e :getting all the card titles
+2025-02-04 10:22:34,993 :INFO : test_e2e :Entering country name as ind
+2025-02-04 10:22:34,993 :INFO : test_e2e :Entering country name as ind
+2025-02-04 10:22:34,993 :INFO : test_e2e :Entering country name as ind
+2025-02-04 10:22:34,993 :INFO : test_e2e :Entering country name as ind
+2025-02-04 10:22:40,739 :INFO : test_e2e :Shopping Success
+2025-02-04 10:22:40,739 :INFO : test_e2e :Shopping Success
+2025-02-04 10:22:40,739 :INFO : test_e2e :Shopping Success
+2025-02-04 10:22:40,739 :INFO : test_e2e :Shopping Success
+2025-02-04 10:22:52,939 :INFO : test_e2e_two :Shopping Page Opened
+2025-02-04 10:23:05,219 :INFO : test_e2e_two :Shopping Page Opened
+2025-02-04 10:23:05,219 :INFO : test_e2e_two :Shopping Page Opened
+2025-02-04 10:23:18,184 :INFO : test_e2e_two :Shopping Page Opened
+2025-02-04 10:23:18,184 :INFO : test_e2e_two :Shopping Page Opened
+2025-02-04 10:23:18,184 :INFO : test_e2e_two :Shopping Page Opened
+2025-02-04 10:23:36,928 :INFO : test_e2e_two :Shopping Page Opened
+2025-02-04 10:23:36,928 :INFO : test_e2e_two :Shopping Page Opened
+2025-02-04 10:23:36,928 :INFO : test_e2e_two :Shopping Page Opened
+2025-02-04 10:23:36,928 :INFO : test_e2e_two :Shopping Page Opened
+2025-02-05 00:29:27,433 :INFO : test_e2e :getting all the card titles
+2025-02-05 00:29:42,245 :INFO : test_e2e :Entering country name as ind
+2025-02-05 00:29:48,095 :INFO : test_e2e :Shopping Success
+2025-02-05 00:29:57,488 :INFO : test_e2e :getting all the card titles
+2025-02-05 00:29:57,488 :INFO : test_e2e :getting all the card titles
+2025-02-05 00:30:03,043 :INFO : test_e2e :Entering country name as ind
+2025-02-05 00:30:03,043 :INFO : test_e2e :Entering country name as ind
+2025-02-05 00:30:08,402 :INFO : test_e2e :Shopping Success
+2025-02-05 00:30:08,402 :INFO : test_e2e :Shopping Success
+2025-02-05 00:31:30,990 :INFO : test_e2e :getting all the card titles
+2025-02-05 00:31:30,990 :INFO : test_e2e :getting all the card titles
+2025-02-05 00:31:30,990 :INFO : test_e2e :getting all the card titles
+2025-02-05 00:31:39,335 :INFO : test_e2e :Entering country name as ind
+2025-02-05 00:31:39,335 :INFO : test_e2e :Entering country name as ind
+2025-02-05 00:31:39,335 :INFO : test_e2e :Entering country name as ind
+2025-02-05 00:32:03,700 :INFO : test_e2e :getting all the card titles
+2025-02-05 00:32:03,700 :INFO : test_e2e :getting all the card titles
+2025-02-05 00:32:03,700 :INFO : test_e2e :getting all the card titles
+2025-02-05 00:32:03,700 :INFO : test_e2e :getting all the card titles
+2025-02-05 00:32:05,110 :INFO : test_e2e :Entering country name as ind
+2025-02-05 00:32:05,110 :INFO : test_e2e :Entering country name as ind
+2025-02-05 00:32:05,110 :INFO : test_e2e :Entering country name as ind
+2025-02-05 00:32:05,110 :INFO : test_e2e :Entering country name as ind
+2025-02-05 00:32:10,864 :INFO : test_e2e :Shopping Success
+2025-02-05 00:32:10,864 :INFO : test_e2e :Shopping Success
+2025-02-05 00:32:10,864 :INFO : test_e2e :Shopping Success
+2025-02-05 00:32:10,864 :INFO : test_e2e :Shopping Success
+2025-02-05 00:32:29,959 :INFO : test_e2e_two :Shopping Page Opened
+2025-02-05 00:32:41,703 :INFO : test_e2e_two :Shopping Page Opened
+2025-02-05 00:32:41,703 :INFO : test_e2e_two :Shopping Page Opened
+2025-02-05 00:32:53,876 :INFO : test_e2e_two :Shopping Page Opened
+2025-02-05 00:32:53,876 :INFO : test_e2e_two :Shopping Page Opened
+2025-02-05 00:32:53,876 :INFO : test_e2e_two :Shopping Page Opened
+2025-02-05 00:33:12,410 :INFO : test_e2e_two :Shopping Page Opened
+2025-02-05 00:33:12,410 :INFO : test_e2e_two :Shopping Page Opened
+2025-02-05 00:33:12,410 :INFO : test_e2e_two :Shopping Page Opened
+2025-02-05 00:33:12,410 :INFO : test_e2e_two :Shopping Page Opened
+2025-02-05 00:40:12,145 :INFO : test_e2e :getting all the card titles
+2025-02-05 00:45:40,899 :INFO : test_e2e_two :Shopping Page Opened
+2025-02-05 00:45:49,912 :INFO : test_e2e_two :Shopping Page Opened
+2025-02-05 00:45:49,912 :INFO : test_e2e_two :Shopping Page Opened
+2025-02-05 00:45:57,517 :INFO : test_e2e_two :Shopping Page Opened
+2025-02-05 00:45:57,517 :INFO : test_e2e_two :Shopping Page Opened
+2025-02-05 00:45:57,517 :INFO : test_e2e_two :Shopping Page Opened
+2025-02-05 00:46:06,715 :INFO : test_e2e_two :Shopping Page Opened
+2025-02-05 00:46:06,715 :INFO : test_e2e_two :Shopping Page Opened
+2025-02-05 00:46:06,715 :INFO : test_e2e_two :Shopping Page Opened
+2025-02-05 00:46:06,715 :INFO : test_e2e_two :Shopping Page Opened
+2025-02-05 00:46:14,546 :INFO : test_e2e_two :Shopping Page Opened
+2025-02-05 00:46:14,546 :INFO : test_e2e_two :Shopping Page Opened
+2025-02-05 00:46:14,546 :INFO : test_e2e_two :Shopping Page Opened
+2025-02-05 00:46:14,546 :INFO : test_e2e_two :Shopping Page Opened
+2025-02-05 00:46:14,546 :INFO : test_e2e_two :Shopping Page Opened
+2025-02-05 00:56:24,084 :INFO : test_e2e_two :Shopping Page Opened
+2025-02-05 00:56:40,105 :INFO : test_e2e_two :Shopping Page Opened
+2025-02-05 00:56:40,105 :INFO : test_e2e_two :Shopping Page Opened
+2025-02-05 09:29:06,569 :INFO : test_e2e :getting all the card titles
+2025-02-05 09:29:25,211 :INFO : test_e2e :Entering country name as ind
+2025-02-05 09:29:36,187 :INFO : test_e2e :Shopping Success
+2025-02-05 09:30:38,398 :INFO : test_e2e :getting all the card titles
+2025-02-05 09:30:38,398 :INFO : test_e2e :getting all the card titles
+2025-02-05 09:30:46,805 :INFO : test_e2e :Entering country name as ind
+2025-02-05 09:30:46,805 :INFO : test_e2e :Entering country name as ind
+2025-02-05 09:32:18,536 :INFO : test_e2e :getting all the card titles
+2025-02-05 09:32:19,184 :INFO : test_e2e :Entering country name as ind
+2025-02-05 09:32:24,753 :INFO : test_e2e :Shopping Success
+2025-02-05 09:33:47,850 :INFO : test_e2e :getting all the card titles
+2025-02-05 09:33:47,850 :INFO : test_e2e :getting all the card titles
+2025-02-05 09:33:50,096 :INFO : test_e2e :Entering country name as ind
+2025-02-05 09:33:50,096 :INFO : test_e2e :Entering country name as ind
+2025-02-05 09:33:55,901 :INFO : test_e2e :Shopping Success
+2025-02-05 09:33:55,901 :INFO : test_e2e :Shopping Success
+2025-02-05 09:34:12,588 :INFO : test_e2e_two :Shopping Page Opened
+2025-02-05 09:34:29,667 :INFO : test_e2e_two :Shopping Page Opened
+2025-02-05 09:34:29,667 :INFO : test_e2e_two :Shopping Page Opened
+2025-02-05 09:40:16,528 :INFO : test_e2e :getting all the card titles
+2025-02-05 09:40:24,042 :INFO : test_e2e :Entering country name as ind
+2025-02-05 09:40:37,047 :INFO : test_e2e :Shopping Success
+2025-02-05 09:41:37,296 :INFO : test_e2e :getting all the card titles
+2025-02-05 09:41:37,296 :INFO : test_e2e :getting all the card titles
+2025-02-05 09:41:41,834 :INFO : test_e2e :Entering country name as ind
+2025-02-05 09:41:41,834 :INFO : test_e2e :Entering country name as ind
+2025-02-05 09:41:48,767 :INFO : test_e2e :Shopping Success
+2025-02-05 09:41:48,767 :INFO : test_e2e :Shopping Success
+2025-02-07 10:17:35,051 :INFO : test_e2e :getting all the card titles
+2025-02-07 10:17:42,992 :INFO : test_e2e :Entering country name as ind
+2025-02-07 10:17:49,783 :INFO : test_e2e :Shopping Success
+2025-02-07 10:18:03,329 :INFO : test_e2e :getting all the card titles
+2025-02-07 10:18:03,329 :INFO : test_e2e :getting all the card titles
+2025-02-07 10:18:03,866 :INFO : test_e2e :Entering country name as ind
+2025-02-07 10:18:03,866 :INFO : test_e2e :Entering country name as ind
+2025-02-07 10:19:31,652 :INFO : test_e2e :getting all the card titles
+2025-02-07 10:19:32,197 :INFO : test_e2e :Entering country name as ind
+2025-02-07 10:19:38,765 :INFO : test_e2e :Shopping Success
+2025-02-07 10:20:01,951 :INFO : test_e2e_two :Shopping Page Opened
+2025-02-07 10:20:12,074 :INFO : test_e2e_two :Shopping Page Opened
+2025-02-07 10:20:12,074 :INFO : test_e2e_two :Shopping Page Opened
+2025-02-07 10:21:21,787 :INFO : test_e2e :getting all the card titles
+2025-02-07 10:21:22,413 :INFO : test_e2e :Entering country name as ind
+2025-02-07 10:21:27,707 :INFO : test_e2e :Shopping Success
+2025-02-07 10:21:38,271 :INFO : test_e2e :getting all the card titles
+2025-02-07 10:21:38,271 :INFO : test_e2e :getting all the card titles
+2025-02-07 10:21:38,773 :INFO : test_e2e :Entering country name as ind
+2025-02-07 10:21:38,773 :INFO : test_e2e :Entering country name as ind
+2025-02-07 10:21:49,268 :INFO : test_e2e :Shopping Success
+2025-02-07 10:21:49,268 :INFO : test_e2e :Shopping Success
+2025-02-07 10:22:09,295 :INFO : test_e2e :getting all the card titles
+2025-02-07 10:22:09,295 :INFO : test_e2e :getting all the card titles
+2025-02-07 10:22:09,295 :INFO : test_e2e :getting all the card titles
+2025-02-07 10:22:13,515 :INFO : test_e2e :Entering country name as ind
+2025-02-07 10:22:13,515 :INFO : test_e2e :Entering country name as ind
+2025-02-07 10:22:13,515 :INFO : test_e2e :Entering country name as ind
+2025-02-07 10:22:35,831 :INFO : test_e2e :getting all the card titles
+2025-02-07 10:22:35,831 :INFO : test_e2e :getting all the card titles
+2025-02-07 10:22:35,831 :INFO : test_e2e :getting all the card titles
+2025-02-07 10:22:35,831 :INFO : test_e2e :getting all the card titles
+2025-02-07 10:22:37,251 :INFO : test_e2e :Entering country name as ind
+2025-02-07 10:22:37,251 :INFO : test_e2e :Entering country name as ind
+2025-02-07 10:22:37,251 :INFO : test_e2e :Entering country name as ind
+2025-02-07 10:22:37,251 :INFO : test_e2e :Entering country name as ind
+2025-02-07 10:22:42,972 :INFO : test_e2e :Shopping Success
+2025-02-07 10:22:42,972 :INFO : test_e2e :Shopping Success
+2025-02-07 10:22:42,972 :INFO : test_e2e :Shopping Success
+2025-02-07 10:22:42,972 :INFO : test_e2e :Shopping Success
+2025-02-07 10:22:52,433 :INFO : test_e2e_two :Shopping Page Opened
+2025-02-07 10:23:01,680 :INFO : test_e2e_two :Shopping Page Opened
+2025-02-07 10:23:01,680 :INFO : test_e2e_two :Shopping Page Opened
+2025-02-07 10:23:15,018 :INFO : test_e2e_two :Shopping Page Opened
+2025-02-07 10:23:15,018 :INFO : test_e2e_two :Shopping Page Opened
+2025-02-07 10:23:15,018 :INFO : test_e2e_two :Shopping Page Opened
+2025-02-07 10:23:32,535 :INFO : test_e2e_two :Shopping Page Opened
+2025-02-07 10:23:32,535 :INFO : test_e2e_two :Shopping Page Opened
+2025-02-07 10:23:32,535 :INFO : test_e2e_two :Shopping Page Opened
+2025-02-07 10:23:32,535 :INFO : test_e2e_two :Shopping Page Opened
+2025-02-07 10:24:35,148 :INFO : test_e2e_two :Shopping Page Opened
+2025-02-07 10:24:53,327 :INFO : test_e2e_two :Shopping Page Opened
+2025-02-07 10:24:53,327 :INFO : test_e2e_two :Shopping Page Opened
+2025-02-07 10:25:31,750 :INFO : test_e2e :getting all the card titles
+2025-02-07 10:25:32,259 :INFO : test_e2e :Entering country name as ind
+2025-02-07 10:25:37,599 :INFO : test_e2e :Shopping Success
+2025-02-07 10:25:53,260 :INFO : test_e2e :getting all the card titles
+2025-02-07 10:25:53,260 :INFO : test_e2e :getting all the card titles
+2025-02-07 10:25:54,540 :INFO : test_e2e :Entering country name as ind
+2025-02-07 10:25:54,540 :INFO : test_e2e :Entering country name as ind
+2025-02-07 10:26:00,260 :INFO : test_e2e :Shopping Success
+2025-02-07 10:26:00,260 :INFO : test_e2e :Shopping Success
+2025-02-07 10:26:12,598 :INFO : test_e2e_two :Shopping Page Opened
+2025-02-07 10:26:27,412 :INFO : test_e2e_two :Shopping Page Opened
+2025-02-07 10:26:27,412 :INFO : test_e2e_two :Shopping Page Opened
+2025-02-07 12:05:36,725 :INFO : test_e2e_two :Shopping Page Opened
+2025-02-07 12:06:29,713 :INFO : test_e2e :getting all the card titles
+2025-02-07 12:06:39,624 :INFO : test_e2e :Entering country name
+2025-02-07 12:07:11,994 :INFO : test_e2e :getting all the card titles
+2025-02-07 12:07:11,994 :INFO : test_e2e :getting all the card titles
+2025-02-07 12:07:18,735 :INFO : test_e2e :Entering country name
+2025-02-07 12:07:18,735 :INFO : test_e2e :Entering country name
+2025-02-07 12:09:35,072 :INFO : test_e2e :getting all the card titles
+2025-02-07 12:09:50,716 :INFO : test_e2e :Entering country name
+2025-02-07 12:11:01,035 :INFO : test_e2e :getting all the card titles
+2025-02-07 12:11:06,593 :INFO : test_e2e :Entering country name
+2025-02-07 12:14:37,285 :INFO : test_e2e :getting all the card titles
+2025-02-07 12:14:37,844 :INFO : test_e2e :Entering country name
+2025-02-07 12:20:31,528 :INFO : test_e2e :getting all the card titles
+2025-02-07 12:20:37,108 :INFO : test_e2e :Entering country name
+2025-02-07 12:22:27,001 :INFO : test_e2e :getting all the card titles
+2025-02-07 12:22:27,583 :INFO : test_e2e :Entering country name
+2025-02-07 12:22:33,061 :INFO : test_e2e :Shopping Success
+2025-02-07 12:23:44,735 :INFO : test_e2e :getting all the card titles
+2025-02-07 12:23:44,735 :INFO : test_e2e :getting all the card titles
+2025-02-07 12:23:51,803 :INFO : test_e2e :Entering country name
+2025-02-07 12:23:51,803 :INFO : test_e2e :Entering country name
+2025-02-07 12:27:44,789 :INFO : test_e2e :getting all the card titles
+2025-02-07 12:27:45,339 :INFO : test_e2e :Entering country name
+2025-02-07 12:27:50,717 :INFO : test_e2e :Shopping Success
+2025-02-07 12:28:06,103 :INFO : test_e2e :getting all the card titles
+2025-02-07 12:28:06,103 :INFO : test_e2e :getting all the card titles
+2025-02-07 12:28:08,403 :INFO : test_e2e :Entering country name
+2025-02-07 12:28:08,403 :INFO : test_e2e :Entering country name
+2025-02-07 12:28:14,163 :INFO : test_e2e :Shopping Success
+2025-02-07 12:28:14,163 :INFO : test_e2e :Shopping Success
+2025-02-17 09:29:42,822 :INFO : test_e2e :getting all the card titles
+2025-02-17 09:30:08,170 :INFO : test_e2e :Entering country name
+2025-02-17 09:31:05,894 :INFO : test_e2e :getting all the card titles
+2025-02-17 09:31:06,718 :INFO : test_e2e :Entering country name
+2025-02-17 09:31:12,338 :INFO : test_e2e :Shopping Success

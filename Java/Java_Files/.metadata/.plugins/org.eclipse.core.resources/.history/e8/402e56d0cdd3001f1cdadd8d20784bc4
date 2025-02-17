@@ -1,0 +1,33 @@
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
+
+import javax.swing.Spring;
+
+public class Temp_Harsh {
+	
+public static void main(String[] args) {
+
+	String str = "helliidkfddhl";
+	String m = "";
+	int c=1;
+	char m1=0;
+	for (int i =0; i <str.length();i++)
+	{   if ( m.contains(String.valueOf(str.charAt(i))) == false)
+	{
+		for (int j =i+1; j <str.length();j++)
+			
+			
+		{if (str.charAt(i)==str.charAt(j))
+			
+		{ c=c+1;
+		m=m+str.charAt(i);}
+		}
+		System.out.println(str.charAt(i)+" : "+c);
+		c=1;
+		}}
+	
+	
+}}
+
+

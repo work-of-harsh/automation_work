@@ -1,0 +1,29 @@
+import static org.testng.Assert.ARRAY_MISMATCH_TEMPLATE;
+
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Collections;
+import java.util.List;
+
+public class Temp {
+  
+	public static void main(String[] args) {
+		String str = "hihhimiieii";
+		String[] s = str.split(" ");
+		List<String> st = Arrays.asList(s);
+		ArrayList<String> st1 = new ArrayList<String>();
+		System.out.println(st);
+		String m="";
+			
+			for(int i = 0; i< str.length();i++)
+			{
+				if(m.contains(String.valueOf(str.charAt(i)))==false)
+				{
+					m = m+str.charAt(i))
+				}
+			}
+		
+System.out.println(m);
+	}
+
+}

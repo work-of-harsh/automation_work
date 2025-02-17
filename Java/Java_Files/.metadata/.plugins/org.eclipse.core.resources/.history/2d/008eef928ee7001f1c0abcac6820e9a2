@@ -1,0 +1,21 @@
+package Cucumber.stepDefinations;
+
+import java.io.IOException;
+
+import Harsh_Project.Page_Objects.Form_Filling_Page;
+import Harsh_Project.Test_Components.BaseTest;
+import io.cucumber.java.en.Given;
+
+public class StepDefination_Implement extends BaseTest  {
+	
+  public 	Form_Filling_Page Ecommerce_page ;              //launching_form_filling_page() returns data type Form_Filling_Page
+	
+	@Given (" I landed on the Ecommerce Page")
+	public void landed_on_the_Ecommerce_Page() throws IOException
+	
+	{
+		Ecommerce_page = launching_form_filling_page();     
+	}
+	
+	
+}

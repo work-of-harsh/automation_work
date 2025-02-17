@@ -1,0 +1,24 @@
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
+
+public class Array_List {
+
+	public static void main(String[] args) {
+		// array list is a class in java. Array list is array with dynamic size.
+		ArrayList<String> a = new ArrayList<String> ();   //we can also use List<String> a = new ArrayList<String> (); because List is a superclass.
+		a.add("Harsh");
+		a.add("Hi");
+		System.out.println(a);
+		for(int i = 0; i<a.size();i++)    // we use size() for array list, and length() is used for array.
+		{      System.out.println(a.get(i));   // we use a.get(i) for array list, and a[i] is used for array.
+		}
+		System.out.println(a.contains("Hi"));  //a.contains("Hi") method is present only in ArrayList not in normal array.
+		String[] name = {"hi", "we","Thug"};
+		List<String> nameArrayList = Arrays.asList(name);   // class Arrays.asList(name) converts "name" array to a "nameArrayList" array list.
+		System.out.println(name[1]);    //if we use System.out.println(name); output is unexpected, limitations of traditional array, over array list.
+		System.out.println(nameArrayList);
+      
+	}
+
+}

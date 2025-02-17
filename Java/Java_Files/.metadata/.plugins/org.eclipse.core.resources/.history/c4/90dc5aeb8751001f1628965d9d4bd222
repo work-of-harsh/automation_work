@@ -1,0 +1,58 @@
+package Harsh_Project.Selenium_Framework_Harsh;
+
+import io.github.bonigarcia.wdm.WebDriverManager;
+
+import static org.testng.Assert.assertListContains;
+import static org.testng.Assert.assertTrue;
+
+import java.io.IOException;
+import java.time.Duration;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
+import org.testng.Assert;
+import org.testng.annotations.Test;
+
+import Harsh_Project.Page_Objects.Form_Filling_Page;
+import Harsh_Project.Page_Objects.Product_Cataloge_Page;
+import Harsh_Project.Page_Objects.Purchase_Page;
+import Harsh_Project.Test_Components.BaseTest;
+
+public class ShopPage_with_framework extends BaseTest{
+	@Test
+	public void Mobile_Shop1() throws IOException
+
+	{
+		
+		Product_Cataloge_Page product_catalogue= form_filling_page.form_fliing("Harsh Vibhor Singh", "thug@tcs.com", "thug");
+		product_catalogue.Adding_mobile_to_cart("Blackberry");
+		Purchase_Page purchase_page = product_catalogue.checkout("Checkout ( 1 )");
+		purchase_page.Adding_country_and_submit("India");
+		purchase_page.Success_Message_Verification("Success! Thank you! Your order will be delivered in next few weeks :-).");
+
+		
+		
+	}
+	@Test
+	public void Mobile_Shop2() throws IOException
+
+	{
+		
+		Product_Cataloge_Page product_catalogue= form_filling_page.form_fliing("Harsh Vibhor Singh", "thug@tcs.com", "thug");
+		product_catalogue.Adding_mobile_to_cart("Nokia Edge");
+		Purchase_Page purchase_page = product_catalogue.checkout("Checkout ( 1 )");
+		purchase_page.Adding_country_and_submit("India");
+		purchase_page.Success_Message_Verification("Success! Thank you! Your order will be delivered in next few weeks :-).");
+
+		
+		
+	}
+	
+}

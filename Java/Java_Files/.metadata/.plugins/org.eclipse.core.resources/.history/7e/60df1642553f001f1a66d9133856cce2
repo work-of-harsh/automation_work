@@ -1,0 +1,25 @@
+
+import org.testng.annotations.Test;
+
+
+public class Main_File extends Parent1 {
+
+	@Test
+	public void tc1()
+	{
+		dothis();      //run1st() and runlast() will also run present in parent class.
+	}
+
+	
+	@Test
+	public void tc2()
+	{
+		 
+		Parent2 p2 = new Parent2(3);
+	
+		
+		System.out.println(p2.add());
+		System.out.println(p2.subtract());
+	}
+
+}

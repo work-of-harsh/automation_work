@@ -1,0 +1,2 @@
+Integer[] l1 = {34,-23,23,101,-99,83};
+List<Integer> l = Arrays.asList(l1);

@@ -1,0 +1,15 @@
+import org.testng.annotations.BeforeMethod;
+
+public class Parent1 {
+
+	public void dothis() {
+		System.out.println("inheritance successful");
+
+	}
+	@BeforeMethod
+	public void run1st()
+	{
+		System.out.println("run first");
+
+	}
+}

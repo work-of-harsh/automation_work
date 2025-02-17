@@ -1,0 +1,27 @@
+import java.util.ArrayList;
+import java.util.List;
+
+public class Repeted_Character {
+
+	public static void main(String[] args) {
+		String k = "Vosllllyaaslyy";
+		String m ="";
+		char m1 = 0;
+		for (int i = 0; i < k.length();i++ ) {
+			char l1=k.charAt(i);  //char at index i is assigned to l1
+			if (l1 != m1 ) {
+				m = m +l1;
+				m1= l1;
+				
+			}
+		}
+		System.out.print(m);
+		if (k.contains("osllll"))
+		{
+			System.out.print('\n' + "present");  //\n is for new line.
+		}
+		else
+		{System.out.print('\n' + "not present"); }
+	}
+
+}

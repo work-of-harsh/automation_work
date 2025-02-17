@@ -1,0 +1,26 @@
+Integer[] l1 = {34,-23,23,101,-99,83};
+List<Integer> l = Arrays.asList(l1);
+ArrayList<Integer> a= new ArrayList<Integer>();
+b.remove(Integer.valueOf(67));   //remove by value
+b1.contains(i)  //boolean
+t = (int) (5*Math.pow(10, i));   //raise to the power in java. 5*10^i
+int k = Integer.parseInt(l);   // convert string into integer
+ArrayList<Integer> b = new ArrayList<Integer>(c);   //here change in array list b will not change array list c.
+c= (List<Integer>) b.clone();     //array list c becomes equal to array list b.   Don't directly use c=b 
+b.addAll(c); //added all elements of list c to list b.
+b.add(0, 23);     //adding values in list by index
+b.remove(0);           //removing values in list  by index
+Collections.max(b)   //finds max in list.
+Collections.frequency(b, 6)   //finds frequency of particular element.
+Collections.swap(b, 0, 1);   //swap by index
+Collections.rotate(b, -1);  //use +1 for clockwise rotate.
+Collections.replaceAll(b, 4, 44);   //replace by value
+b.indexOf(44)       //find index by value
+b.containsAll(c);  //to check if all elements of c are in b.
+Collections.fill(b, 67);    //converts every element to 67.
+b.remove(Integer.valueOf(67));   //remove by value
+char letter = 'r';
+HashMap<String,Integer> hm = new HashMap<String,Integer>();
+s2.charAt(i);
+String.valueOf(str.charAt(i))  //concert into string.
+st.get(i).equals(st1.get(j));  //compare index value of two different array lists.

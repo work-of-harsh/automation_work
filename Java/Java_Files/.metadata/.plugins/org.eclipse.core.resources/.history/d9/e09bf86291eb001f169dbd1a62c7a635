@@ -1,0 +1,19 @@
+
+public class Temp {
+
+	public static void main(String[] args) {
+		String str = " hi thig here ";
+		String m = "";
+		
+		for (int i = 0; i <str.length();i++)
+		{
+			m = str.charAt(i) +m;
+		}
+System.out.println(m);
+
+str = str.strip();
+String[] s = str.split(" ");
+
+	}
+
+}

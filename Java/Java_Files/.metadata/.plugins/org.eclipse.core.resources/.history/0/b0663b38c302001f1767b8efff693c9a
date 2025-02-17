@@ -1,0 +1,49 @@
+
+public class String_in_java {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		//string is an object that represents multiple sequence of characters  //String literal method to create string, uses less space as even with same  characters already present in a different object, new object uses characters already present in that different object . 
+
+
+
+		// String s1 = "Rahul Shetty Academy";
+
+		String s5 = "hello";
+		String s6 = "hello";
+
+
+
+
+
+		//new memory allocate operator method to create string, uses more space as even with same  characters already present in different string, new object is created. 
+
+		String s2 = new String("Welcome");
+
+		String s3 = new String("Welcome");
+
+
+
+		String s = "Rahul Shetty Academy";
+
+		String[] splittedString = s.split("Shetty");  //Shetty is eliminated in splittedString because of split.
+
+		System.out.println(splittedString[0]);
+
+		System.out.println(splittedString[1]);
+
+		System.out.println(splittedString[1].trim());  //removes white space
+
+		for(int i =s.length()-1;i>=0;i--)   //print in reverse
+
+		{
+
+
+
+		System.out.println(s.charAt(i));   //we used s.charAt(i) to print individual characters of string.
+
+		}
+
+	}
+
+}

@@ -1,0 +1,63 @@
+import java.time.Duration;
+import java.util.List;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.support.ui.Select;
+
+public class Dropdown {
+
+	public static void main(String[] args) throws InterruptedException {
+		System.setProperty("webdriver.chrome.driver","C:/Users/Lenovo/AppData/Local/Programs/Python/Python37/Scripts/chromedriver.exe");
+		WebDriver driver = new ChromeDriver (); // we need to create object to access methods of a class
+		driver.get("https://rahulshettyacademy.com/dropdownsPractise/");
+		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(5));
+		driver.getTitle();
+		driver.manage().window().maximize();
+		
+		
+		
+		
+		// only works when drop down has select tag
+		Select dropdown=new Select(driver.findElement(By.xpath("//*[@id='ctl00_mainContent_DropDownListCurrency']")));
+
+		dropdown.selectByIndex(2);
+		Thread.sleep(2000); 
+		dropdown.selectByVisibleText("INR");
+		Thread.sleep(2000); 
+		dropdown.selectByValue("USD");
+		System.out.println(dropdown.getFirstSelectedOption().getText());  //print the selected option
+		
+		
+		int i=1;
+		driver.findElement(By.id("divpaxinfo")).click(); 
+		
+		System.out.println(driver.findElement(By.id("divpaxinfo")).getText());
+		while(i<5)
+		{
+			driver.findElement(By.id("hrefIncAdt")).click();    //clicking on add adult button 5 times
+			i++; 
+		}
+		System.out.println(driver.findElement(By.id("divpaxinfo")).getText());
+		
+		
+		//auto suggestive drop down using for loop
+		
+		driver.findElement(By.id("autosuggest")).sendKeys("Au");
+		List<WebElement> countries = driver.findElements(By.cssSelector("li.ui-menu-item a"));
+		
+		for (WebElement country : countries)
+		{
+			if (country.getText().equalsIgnoreCase("Australia"))
+			{
+				country.click();
+				break;
+			}
+		}
+		
+		
+	}
+
+}

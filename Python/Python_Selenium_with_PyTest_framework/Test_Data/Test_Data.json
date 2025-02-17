@@ -1,0 +1,33 @@
+{
+
+  "Test_Case1" :[
+     {
+
+     "mobileName": "Samsung Note 8",
+     "entered_country_name": "ind",
+      "country_presence":"India"
+
+      },
+
+
+
+    {
+
+
+      "mobileName":"Samsung Note 8",
+     "entered_country_name":"indi",
+      "country_presence":"India"
+
+      }],
+
+ "Test_Case2" :[
+     {
+
+   "mobileName":"Samsung Note 8",
+     "entered_country_name":"China",
+      "country_presence":"China"
+
+      }]
+
+
+}

@@ -1,0 +1,11 @@
+
+public class Temp4 extends Temp_b {
+
+	public static void main(String[] args) {
+		Temp_b n = new Temp_b(3);
+		n.sub(0);
+		
+		System.out.println(n.sum(0));
+	}
+	
+}

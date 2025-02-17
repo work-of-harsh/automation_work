@@ -1,0 +1,17 @@
+
+public class Temp extends Temp2 {
+
+	
+	
+	public Temp(int a) {
+		super(a);
+		// TODO Auto-generated constructor stub
+	}
+
+	public void print() {
+		Temp2 k = new Temp2(3);
+		System.out.println(k.sub(5));
+		System.out.println(k.sum(5));
+	}
+
+}

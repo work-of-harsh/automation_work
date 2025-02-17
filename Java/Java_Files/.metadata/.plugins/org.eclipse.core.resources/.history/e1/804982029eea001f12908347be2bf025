@@ -1,0 +1,5 @@
+Integer[] l1 = {34,-23,23,101,-99,83};
+List<Integer> l = Arrays.asList(l1);
+ArrayList<Integer> a= new ArrayList<Integer>();
+b.remove(Integer.valueOf(67));   //remove by value
+t = (int) (5*Math.pow(10, i));   //raise to the power in java. 5*10^i

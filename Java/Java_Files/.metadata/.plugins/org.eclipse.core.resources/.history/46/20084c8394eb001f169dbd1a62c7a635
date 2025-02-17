@@ -1,0 +1,35 @@
+import java.util.HashMap;
+
+public class Temp {
+
+	public static void main(String[] args) {
+		String str = "hi thig here";
+		String m = "";
+		
+		for (int i1 = 0; i1 <str.length();i1++)
+		{
+			m = str.charAt(i1) +m;
+		}
+System.out.println(m);
+HashMap<Character,Integer> hm = new HashMap<Character,Integer>();
+str = str.strip();
+String[] s = str.split(" ");
+for(int j = 0; j <str.length();j++)
+{
+	String s2 = s[j];
+	for(int i =0; i< s2.length();i++)
+	{   if(hm.containsKey(s2.charAt(i))==false)
+	{
+		hm.put(s2.charAt(i),1 );
+	}
+	else
+	{
+		hm.put(s2.charAt(i), hm.get(s2.charAt(i))+1);
+	}
+		
+	}
+}
+System.out.println(hm);
+	}
+
+}

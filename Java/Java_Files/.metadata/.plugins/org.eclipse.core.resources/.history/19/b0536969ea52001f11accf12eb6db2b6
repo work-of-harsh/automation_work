@@ -1,0 +1,18 @@
+
+public class Temp_b {
+	
+int a;
+int b;
+
+public Temp2 (int a) {
+	this.a=a;	
+}
+  public int sum(int b) {
+	  return a+b;
+  }
+
+  
+  public int sub(int b) {
+	  return a-b;
+  }
+}

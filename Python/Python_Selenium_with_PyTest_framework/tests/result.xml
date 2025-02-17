@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="utf-8"?><testsuites><testsuite errors="0" failures="0" hostname="Lenovo-PC" name="pytest" skipped="0" tests="1" time="24.886" timestamp="2024-02-18T16:01:00.071000"><testcase classname="test_e2e.TestOne" name="test_e2e[getData0]" time="19.677" /></testsuite></testsuites>

@@ -1,0 +1,20 @@
+
+public class Temp extends Temp_b {
+
+	
+	
+int a =3;
+
+	public Temp(int a) {
+		super(a);
+		this.a=a;
+		// TODO Auto-generated constructor stub
+	}
+
+	public void print() {
+		Temp_b k = new Temp_b(a);
+		System.out.println(k.sub(a));
+		System.out.println(k.sum(a));
+	}
+
+}

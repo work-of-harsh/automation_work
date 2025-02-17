@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Loan Department" parallel="tests" thread-count="6">
+    <listeners> 
+        <listener class-name="test.Listeners"/>
+          </listeners>
+   
+    <test name="Personal loan">             //module name or test folder name is "Personal loan"
+       <parameter name="URL" value="personalloan.com"/>    //on the same line so we can close using />  //test level parameterisation
+         
+    <classes>
+      <class name="test.day1">
+          <methods>
+              <include name ="Demo"/>   //only this test case will run in the class
+          </methods>
+      </class>                          //on the different line so we close using /class            
+      <class name="test.day2"/>
+      <class name ="test.day4"/>
+      
+    </classes>
+  </test> 
+<test name ="Car Loan">      //module name is "Car loan"
+  <parameter name="URL" value="carloan.com"/>
+  <parameter name="APIKey/usrname" value="123456"/>
+       <classes>
+          
+          <class name="test.day3">
+              <methods>
+                  <exclude name="API.*"/>        //excluding all test cases having the name starting with "API" keyword
+              </methods>
+              </class>
+      </classes>
+  </test>
+</suite> 
