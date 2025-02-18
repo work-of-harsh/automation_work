@@ -3,7 +3,7 @@ from selenium.webdriver.common.by import By
 
 from pageObjects.ConfirmPage import ConfirmPage
 
-import Python_Selenium_with_PyTest_framework.tests.conftest
+
 
 
 class CheckOutPage:

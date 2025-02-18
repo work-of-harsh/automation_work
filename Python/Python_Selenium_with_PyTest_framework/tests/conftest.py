@@ -12,11 +12,11 @@ def setup(request):                                       # request is an instan
     global driver                                                           #done for screenshot code '@pytest.mark.hookwrapper' below
     if request.param == "chrome":
 
-        service_obj = Service("C:/Users/Lenovo/AppData/Local/Programs/Python/Python37/Scripts/chromedriver.exe")
+        service_obj = Service()           #we can provide browser driver location inside Service("location")
 
         driver = webdriver.Chrome(service=service_obj)                  #this driver is local driver of fixture
     elif request.param == "firefox":
-        service_obj = Service("C:/Users/Lenovo/AppData/Local/Programs/Python/Python37/Scripts/geckodriver.exe")
+        service_obj = Service()                 #we can provide browser driver location inside Service("location")
         driver = webdriver.Firefox(service=service_obj)
 
     driver.get("https://rahulshettyacademy.com/angularpractice/")

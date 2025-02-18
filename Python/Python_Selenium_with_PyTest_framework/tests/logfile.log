@@ -518,3 +518,21 @@
 2025-02-17 09:31:05,894 :INFO : test_e2e :getting all the card titles
 2025-02-17 09:31:06,718 :INFO : test_e2e :Entering country name
 2025-02-17 09:31:12,338 :INFO : test_e2e :Shopping Success
+2025-02-18 11:32:56,713 :INFO : test_e2e :getting all the card titles
+2025-02-18 11:32:57,644 :INFO : test_e2e :Entering country name
+2025-02-18 11:33:03,238 :INFO : test_e2e :Shopping Success
+2025-02-18 11:33:24,214 :INFO : test_e2e :getting all the card titles
+2025-02-18 11:33:24,214 :INFO : test_e2e :getting all the card titles
+2025-02-18 11:33:26,971 :INFO : test_e2e :Entering country name
+2025-02-18 11:33:26,971 :INFO : test_e2e :Entering country name
+2025-02-18 11:33:33,557 :INFO : test_e2e :Shopping Success
+2025-02-18 11:33:33,557 :INFO : test_e2e :Shopping Success
+2025-02-18 11:33:40,562 :INFO : test_e2e_two :Shopping Page Opened
+2025-02-18 11:33:57,415 :INFO : test_e2e_two :Shopping Page Opened
+2025-02-18 11:33:57,415 :INFO : test_e2e_two :Shopping Page Opened
+2025-02-18 11:35:54,317 :INFO : test_e2e :getting all the card titles
+2025-02-18 11:35:55,447 :INFO : test_e2e :Entering country name
+2025-02-18 11:36:01,014 :INFO : test_e2e :Shopping Success
+2025-02-18 11:39:12,618 :INFO : test_e2e :getting all the card titles
+2025-02-18 11:39:13,692 :INFO : test_e2e :Entering country name
+2025-02-18 11:39:19,239 :INFO : test_e2e :Shopping Success
