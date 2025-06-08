@@ -46,3 +46,15 @@ class Human:
 obj=Human()
 obj.sayHello()      #prints "Hello Thug"
 obj.sayHello('Harsh')       #prints "Hello Harsh"
+
+class Poly:
+    def print(self, ar1, ar2=None):
+        if ar2 is None:
+            print(f"Only one argument: {ar1}")
+        else:
+            print(f"Two arguments: {ar1} and {ar2}")
+
+# Example usage
+p = Poly()
+p.print(10)
+p.print(10, 20)
