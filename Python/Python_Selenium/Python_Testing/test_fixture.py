@@ -7,9 +7,9 @@ def preWork():
 
 @pytest.fixture()
 def eg_of_yield():
-    print("I am before yield")
-    yield
-    print("I am after yield")
+    print("I am before yield")    #Setup
+    yield print("I am Yield")     #return
+    print("I am after yield")     #teardown
 
 def test_fun1(preWork):
     print("I am function 1")
