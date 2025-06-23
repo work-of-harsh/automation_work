@@ -34,3 +34,14 @@ def test_fun4(session_fixture):
 def test_fun5(session_fixture,eg_of_yield):    #two fixtures in the argument.
     print("I am function 5")
 
+
+@pytest.fixture()
+def sample_data():
+    dic={"Name":"Thug", "Roll no": 123}
+    return dic
+
+def test_sample_data(sample_data):      #before running the function, compiler will check if there is any fixture and will run it first.
+    assert sample_data["Name"]=="Thug"      # dic is returned and stored in sample_data
+    assert sample_data["Roll no"] == 123     #fixture name is provided as argument when fixture returns anything.
+    print("Data tested")
+
