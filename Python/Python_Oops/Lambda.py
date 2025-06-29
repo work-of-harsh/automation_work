@@ -1,9 +1,9 @@
 #A lambda function is a small anonymous function.
 
 #A lambda function can take any number of arguments, but can only have one expression.
-import pytest
 
-x= lambda a: a+10
+#lambda argument:expression
+x= lambda a: a+10   #expression value is returned by lambda function.
 print(x(5))
 
 x= lambda a,b: a+b
@@ -30,13 +30,4 @@ finally:
     print("done")
 
 
-@pytest.fixture()
-def a():
-    print("I am Fixture")
 
-#@pytest.mark.usefixtures("a")
-#class k:
-def b(a):
-    print("hi")
-
-b()
