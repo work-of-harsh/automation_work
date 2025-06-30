@@ -20,7 +20,7 @@ for i in gen():
 #print using list
 print(list(gen()))
 
-
+#fixture with yield is a generator function.
 #generator function uses much less memory than for loop function.
 
 #generator expression
