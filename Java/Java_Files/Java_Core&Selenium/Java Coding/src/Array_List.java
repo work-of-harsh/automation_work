@@ -23,8 +23,9 @@ public class Array_List {
 		System.out.println(name[1]); 
 		System.out.println(nameArrayList);
 		System.out.println(nameArrayList.get(3));  
-		//nameArrayList.addAll(a);
-		//System.out.println(nameArrayList);
+		ArrayList<Object> clonelist = new ArrayList<Object>(nameArrayList);
+		clonelist.addAll(a);  //merging of arraylist.
+		System.out.println(clonelist);
 	}
 
 }

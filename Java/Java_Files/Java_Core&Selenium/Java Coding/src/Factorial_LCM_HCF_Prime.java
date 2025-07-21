@@ -1,58 +1,61 @@
 import java.util.ArrayList;
 import java.util.Collections;
+import java.util.List;
 
 public class Factorial_LCM_HCF_Prime {
 
 	public static void main(String[] args) {
-		//factorial
-		int a=5;
-		int m =1;
-		while (a!=0)
-		{m = m*a;
-		a=a-1;}
-		System.out.println("factorial is : "+m);
-		//HCF
-		int a1=30;
-		int a2 =15;
-		ArrayList<Integer> m1 = new ArrayList<Integer>();
-		ArrayList<Integer> m2 = new ArrayList<Integer>();
-		ArrayList<Integer> m3 = new ArrayList<Integer>();
-		for (int i =1; i <= a1;i++)
-		{ if (a1%i==0)
-		{m1.add(i);}
-		}
-		System.out.println(m1);
-		for (int i =1; i <= a1;i++)
-		{ if (a2%i==0)
-		{m2.add(i);}
-		}
-		System.out.println(m2);
 		
-	    for(int i : m1)
-	    { if(m2.contains(i))
-	    {m3.add(i);}
-	    }
-	    Collections.sort(m3);     //sort and reverse in collections class.
-	    System.out.println(m3);
-	    Collections.reverse(m3);
-	    System.out.println("Hcf is: "+ m3.get(0));
-	    
-	  
-	    
-	    //LCM
+
+		int a=13;
+		int b =5;
+		int m=1;
+		//factorial
+		for (int i=a;i>0;i--)
+		{
+			m *= i;
+			
+		}
+		System.out.println("factorial "+m);
+		
+		
+		//hcf
+		List<Integer> f1= factors(a);
+		List<Integer> f2= factors(b);
+		List<Integer> hcf = new ArrayList<Integer>();
+		
+		for (int i : f1)
+		{
+			if(f2.contains(i))
+			{
+				hcf.add(i);
+			}
+		}
+		
+		System.out.println("hcf "+hcf.get(hcf.size()-1));
+		
+		
+		//lcm
+		m=1;
+		while (true)
+		{
+		if(a*++m%b==0)
+		{
+			System.out.println("lcm " + a*m);
+			break;
+			
+		}
+			
+		}
+		
 	   
-	    int a3 = 3;
-	    int a4 = 8;
-	    int a5 = 0;
-	    int k =1;
-	    while(k!=0)
-	    {a5 = k*a3;
-	     if(a5%a4 ==0)
-	     {k=0;
-	     break;}
-	     k = k+1;
-	    }
-	    System.out.println("Lcm is: "+ a5);
+	
+	
+	
+	
+	
+	
+	
 	    
 	    //Prime no
 	    
@@ -73,5 +76,17 @@ public class Factorial_LCM_HCF_Prime {
 	    }
 	}
 	
-
+	public static List<Integer> factors(int in)
+	{
+		List<Integer> li= new ArrayList<Integer>();
+		for(int i =1;i<=in;i++)
+		{
+			if(in%i==0)
+			{
+				li.add(i);
+			}
+		}
+		
+		return li;
+	}
 }

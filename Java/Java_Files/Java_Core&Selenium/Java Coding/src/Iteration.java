@@ -11,13 +11,19 @@ public class Iteration {
 	      a.add("john");
 	      a.add("cena");
 	   Iterator<String> it = a.iterator();                   //An Iterator is an object that can be used to loop through collections, like ArrayList and HashSet.
-	   while(it.hasNext()) {
-		   if(it.next()=="john")
+	   while(it.hasNext()) { 
+		   if(it.next()=="john")                      //iterator is not available for array.
 		   { it.remove();  }                //removed john
 		 
 		 }
 	   System.out.println(a);
-	   
+//printing each element
+	   Iterator<String> it1 = a.iterator();
+	   while(it1.hasNext())      //at it.next()=="cena" , it1.hasNext() =false
+	   {
+	   	System.out.println(it1.next());                //initially the iterator pointer is before the first element.
+	   }
+
 	   //iterator in hashmap
 		HashMap<String,Integer> hm = new HashMap<String,Integer>();
 		hm.put("hi", 1);
@@ -27,7 +33,6 @@ public class Iteration {
 		Iterator it2= hm.entrySet().iterator();
 		while(it2.hasNext())
 		{ System.out.println(it2.next());   }
-
 	}
 
 }

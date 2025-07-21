@@ -26,13 +26,13 @@ public class Hashmap_and_Hashset {
 		c=0; 
 		}
 		
-		
+	
 		
 		}
 
 System.out.println(hm);
 hm.remove(" ");
-System.out.println(hm);
+System.out.println(hm);        //space removed
 Set<String> k = hm.keySet();                //return type set.
 Collection<Integer> v =hm.values();          // //return type Collection.
 System.out.println(k);
@@ -44,14 +44,14 @@ for (Map.Entry<String, Integer> rep : hm.entrySet())    //iteration in hashmap. 
 {System.out.println(rep.getKey() + " is repeating");}
 }
 
-HashSet<Object> s = new HashSet<Object>();    //repeated data not allowed in String
+HashSet<Object> s = new HashSet<Object>();    //repeated data not allowed in Set
 s.add("Hi");                  //elements in set are not stored in the same sequence in which they area added so extraction by index is not available. Convert set to array or array list to extract by index.
 s.add("Hi");
 s.add("1");
 s.add(1);
 s.remove("Hi");
 System.out.println(s); 
-for (Object i : s)
+for (Object i : s)          //printing elements of set
 {System.out.println(i); }
 
 

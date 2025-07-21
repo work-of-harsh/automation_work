@@ -1,18 +1,24 @@
-import static org.testng.Assert.ARRAY_MISMATCH_TEMPLATE;
-
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
 import java.util.HashMap;
+import java.util.Iterator;
 import java.util.List;
 
-public class Temp {
-  
+public class temp {
+
 	public static void main(String[] args) {
-		HashMap<String,Integer> hm = new HashMap<String,Integer>();
-		hm.put("hi", 1);
-		HashMap<String,Integer> hm1 = new HashMap<String,Integer>(hm);
-		System.out.println(hm1);
+		
+		int a=123;
+		int rev=0;
+		String s ="";
+		int m=0;
+		
+		m=Integer.valueOf(s);
+		
+		System.out.println(m+1);
+		
+	
 	}
 
 }

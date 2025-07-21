@@ -1,6 +1,12 @@
 Integer[] l1 = {34,-23,23,101,-99,83};
 List<Integer> l = Arrays.asList(l1);
 ArrayList<Integer> a= new ArrayList<Integer>();
+Iterator<String> it = a.iterator();
+while(it.hasNext())
+Iterator it2= hm.entrySet().iterator();
+while(it2.hasNext())
+System.out.println(it2.next());
+List<Integer> l2=  new ArrayList<Integer>(Arrays.asList(l1));
 b.remove(Integer.valueOf(67));   //remove by value
 b1.contains(i)  //boolean
 t = (int) (5*Math.pow(10, i));   //raise to the power in java. 5*10^i
@@ -19,7 +25,7 @@ b.indexOf(44)       //find index by value
 b.containsAll(c);  //to check if all elements of c are in b.
 Collections.fill(b, 67);    //converts every element to 67.
 b.remove(Integer.valueOf(67));   //remove by value
-char letter = 'r';
+char letter = 'r';   //single comma, even 0,1,2...can be char
 HashMap<String,Integer> hm = new HashMap<String,Integer>();
 hm.put(key, value);  
 hm.get(key);
@@ -29,3 +35,7 @@ String.valueOf(str.charAt(i))  //concert into string.
 st.get(i).equals(st1.get(j));  //compare index values of two different array lists.
 st[i]==st1[j]           //compare index values of two different lists.
 String[] s = str.split("\\W");   //split by regular expressions.
+str= str.strip();  //removes white spaces from both the ends. trim() removes single white space from both the ends.
+str.contains("text");    //boolean for string
+sub_string.add(s.substring(i, j));    //string slicing
+sub_string.subList(0, 2)       //list slicing

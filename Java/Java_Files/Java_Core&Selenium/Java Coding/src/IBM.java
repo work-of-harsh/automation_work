@@ -5,7 +5,7 @@ import java.util.List;
 public class IBM {
 
 	public static void main(String[] args) {
-		String[] str = {"a","b","c","d","a","b","c","c","a","cF"};
+		String[] str = {"a","b","c","d","a","b","c","c","a","c"};
 		List<String> l = new ArrayList<String>();
 		List<String> l1 = new ArrayList<String>();
 		for(int i =0; i<str.length;i++)

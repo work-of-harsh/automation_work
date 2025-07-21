@@ -50,7 +50,7 @@ public class CoreJava {
 		str= str.strip();  //removes white spaces from both the ends.
 		System.out.println(str);
 		String[] n = str.split("'");
-		System.out.println(n[1].strip() + " white space removed");
+		System.out.println(n[1].strip() + " :white space removed");
 		String[] b = {"a", "man", "him", " thug life"};    
 		List<String> b1 = Arrays.asList(b); 
 		System.out.println(b1);
@@ -59,6 +59,12 @@ public class CoreJava {
 		{
          System.out.println(i);
 		}}
+		
+		String stg = "abcd";
+		for (char c : stg.toCharArray())     //iteration using characters.
+		{
+			System.out.println(c);
+		}
 
 }}
 	
