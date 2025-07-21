@@ -22,9 +22,10 @@ public class Paent_child_window {
 		String parentId = it.next();    //first time moves to "parentid"
 
 		String childId = it.next();			//second time moves to "childid"
+		System.out.println(parentId);
+		System.out.println(childId);
 
 		driver.switchTo().window(childId);
-
 		System.out.println(driver.findElement(By.cssSelector(".im-para.red")).getText());
 
 		driver.findElement(By.cssSelector(".im-para.red")).getText();

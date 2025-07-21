@@ -1,6 +1,7 @@
 import java.io.File;
 import java.io.IOException;
 
+import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
@@ -21,6 +22,11 @@ public class Screen_Shot {
 		File scn_shot= ((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);      //we casted driver object into TakesScreenshot method, TakesScreenshot method becomes equal to driver object.
 		                                                                             //scn_shot object has screenshot file.
 		FileUtils.copyFile(scn_shot, new File("C:\\Users\\Lenovo\\eclipse-workspace\\Introduction\\src"));
+		
+		 JavascriptExecutor js = (JavascriptExecutor) driver;
+
+	        // Scroll down
+	        js.executeScript("window.scrollBy(0, 300)");
 		driver.close();
 	}
 

@@ -26,7 +26,6 @@ public class time_synchroniz {
 		WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(5));   //explict wait
 		wait.until(ExpectedConditions.elementToBeClickable(By.xpath("//div[@id='resultsContainer']/section/article[1]")));
 		//Thread.sleep(5000L);
-	
 	driver.findElement(By.xpath("//div[@id='resultsContainer']/section/article[1]")).click();
    
 	

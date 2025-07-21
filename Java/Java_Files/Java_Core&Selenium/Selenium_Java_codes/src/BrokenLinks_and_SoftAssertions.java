@@ -30,7 +30,7 @@ public class BrokenLinks_and_SoftAssertions {
 			   System.out.println(conn.getResponseCode());
 			   sof.assertFalse(conn.getResponseCode() >=400, "Link with text " +link.getText() + " has status code " + conn.getResponseCode());  //soft assertion will capture exception at this point but will not stop execution.
 		}
-       sof.assertAll();   //will throw all exception at once and stop execution.
+       sof.assertAll();   //will throw all exception at once and stop execution which was captured by soft assert.
 	}
 
 }

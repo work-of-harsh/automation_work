@@ -38,7 +38,7 @@ public class Open_links_newtab_get_title {
 					
 					String clickonlinkTab=Keys.chord(Keys.CONTROL,Keys.ENTER);   //pressing keys together
 					
-					coloumndriver.findElements(By.tagName("a")).get(i).sendKeys(clickonlinkTab);  //opening link in new tab
+					coloumndriver.findElements(By.tagName("a")).get(i).sendKeys(clickonlinkTab);  //opening link in new tab  //get(i) is index
 					Thread.sleep(5000L);
 					
 				}
