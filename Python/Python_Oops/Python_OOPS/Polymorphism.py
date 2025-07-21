@@ -8,9 +8,12 @@ class a:
     var1="him"
 class b(a):
     var1="you"
+    def parent(self):
+        print(super().var1)
 
 obj1=b()
 print(obj1.var1)        #prints "you" overriding "him". If var1="you" is removed, "him" is printed.
+print(obj1.parent())
 
 #overriing method.
 

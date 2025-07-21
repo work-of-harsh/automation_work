@@ -3,7 +3,7 @@ class car:
 
     def __init__(self,wheel):
         self.wheel = wheel   #instance variable
-        self.model= "cadelac"   #instance variable
+        self.model= "cadelac"   #new instance variable created.
         car.year =2025
 
 
@@ -14,16 +14,16 @@ class car:
     #It allows access to instance variables and methods within the class.
     #Instance Method (uses self)
     def met1(self):            #self refers to the object of class "car" here.
-        print(f"Model for met1 self. is {self.model}")   #prints the overidden value.
-        print(f"Model for met1 car. is {car.model}")    #prints the original value.
+        print(f"Model for met1 self. is {self.model}")   #prints the instance variable value.
+        print(f"Model for met1 car. is {car.model}")    #prints the class variable value.
         self.met0()
         self.met2()
         car.met0(obj)   #Instance methods require self; calling them on the class requires passing an instance.
         car.met2()
 
 
-    @classmethod    #cant directly access instance variables.
-    def met2(cls):                       #cls refers to the class "car" here.
+    @classmethod    #cant directly access instance variables. class methods can be accessed without creating object.
+    def met2(cls):                       #cls refers to the class "car" class here.
         print(f"Model for met2 car. is {car.model}")
         print(f"Model for met2 cls. is {cls.model}")
         print(f"Model for met2 cls. is {cls.year}")
@@ -55,3 +55,4 @@ obj.met1()      #python translates it as car.met1(obj), that is why passing obj 
 #accessing instance variable from class method.
 obj1=car(6)
 obj1.met2a(obj1)   #obj1 is passed as argument as "class method" met2a is using instance.
+car.met3()

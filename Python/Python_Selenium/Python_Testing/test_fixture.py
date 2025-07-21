@@ -45,3 +45,16 @@ def test_sample_data(sample_data):      #before running the function, compiler w
     assert sample_data["Roll no"] == 123     #fixture name is provided as argument when fixture returns anything.
     print("Data tested")
 
+
+@pytest.fixture()
+def fix():
+    print("I am fix")
+    yield print("run")
+    print("I ran")
+
+@pytest.mark.usefixtures("fix")     #method 2 of usinf fixture.
+def test_tmp():      #only using test_ will activate fixture.
+    print("i am here")
+
+test_tmp()
+
