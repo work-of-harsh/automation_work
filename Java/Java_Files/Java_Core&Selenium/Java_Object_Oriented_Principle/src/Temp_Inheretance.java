@@ -9,7 +9,7 @@ public class Temp_Inheretance extends Temp1 {
 	{ first();}
 	
 	@Test
-	public void tc2()
+	public void tc2()     //before and after method of Temp1 will also execute here due to inheretance.
 	{  Temp2 c = new Temp2(5); 
 	  c.add(5);
 	  c.sub(5);

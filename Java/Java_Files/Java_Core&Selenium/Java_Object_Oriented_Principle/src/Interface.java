@@ -1,19 +1,20 @@
 
 public class Interface {
-
+// interface is class with empty bodies.
 	public static void main(String[] args) {
 		circle c = new circle(5);
 		c.sum();
 		c.area();
 		c.area2();
- 
+		game c1 = new circle(5);  //c1 has access of only game methods.
 	}}
 
-//interface can have access modifier (public) for methods and properties.
+//interface  have access modifier by default public for methods and properties.
+//in java static methods can't be overridden.
 interface game                     //interface class cannot have constructors.
-{  
+{   int var =0;               //variables created in interface class are by default public static final.
    public void area();       //interface class can have only non implemented methods.
-   public void area2();  
+   public void area2();       
 }
 
 interface shape2                             
