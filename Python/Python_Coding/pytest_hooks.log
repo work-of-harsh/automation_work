@@ -1,0 +1,24 @@
+2025-08-06 12:06:58,600 - INFO - [HOOK] Pytest is configuring the test run.
+2025-08-06 12:06:58,686 - INFO - [HOOK] Test session is starting...
+2025-08-06 12:06:58,757 - INFO - [HOOK] Setting up test: test_a[1]
+2025-08-06 12:06:58,758 - INFO - [HOOK] Setting up fixture: session::
+2025-08-06 12:06:58,758 - INFO - [HOOK] Setting up fixture: session::
+2025-08-06 12:06:58,758 - INFO - [HOOK] Setting up fixture: session::
+2025-08-06 12:06:58,758 - INFO - [HOOK] Setting up fixture: session::
+2025-08-06 12:06:58,759 - INFO - [HOOK] Setting up fixture: class::test_fixture.py
+2025-08-06 12:06:58,763 - INFO - [HOOK] Test test_fixture.py::test_a[1] PASSED.
+2025-08-06 12:06:58,776 - INFO - [HOOK] Tearing down test: test_a[1]
+2025-08-06 12:06:58,779 - INFO - [HOOK] Setting up test: test_b[1]
+2025-08-06 12:06:58,779 - INFO - [HOOK] Setting up fixture: class::test_fixture.py
+2025-08-06 12:06:58,867 - INFO - [HOOK] Test test_fixture.py::test_b[1] FAILED.
+2025-08-06 12:06:58,870 - ERROR - [HOOK] Exception in test: test_b[1]
+2025-08-06 12:06:58,870 - ERROR -         Error: assert 1 != 1
+2025-08-06 12:06:58,870 - INFO - [HOOK] Tearing down test: test_b[1]
+2025-08-06 12:06:58,873 - INFO - [HOOK] Setting up test: test_a[2]
+2025-08-06 12:06:58,874 - INFO - [HOOK] Setting up fixture: class::test_fixture.py
+2025-08-06 12:06:58,877 - INFO - [HOOK] Test test_fixture.py::test_a[2] PASSED.
+2025-08-06 12:06:58,878 - INFO - [HOOK] Tearing down test: test_a[2]
+2025-08-06 12:06:58,882 - INFO - [HOOK] Setting up test: test_b[2]
+2025-08-06 12:06:58,882 - INFO - [HOOK] Setting up fixture: class::test_fixture.py
+2025-08-06 12:06:58,884 - INFO - [HOOK] Test test_fixture.py::test_b[2] PASSED.
+2025-08-06 12:06:58,885 - INFO - [HOOK] Tearing down test: test_b[2]

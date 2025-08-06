@@ -14,6 +14,8 @@ class a(ABC):     #if two methods are defined in parent abstract class, both met
     def sub(self):
         #empty
         pass
+    def hi(self):
+        print("Hi")
 
 class b(a):                          #inhereting the abstract class
     def add(self):

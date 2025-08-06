@@ -1,0 +1,92 @@
+import pytest
+import logging
+
+# ----------------------------
+# Global Logging Setup
+# ----------------------------
+logging.basicConfig(
+    filename='pytest_hooks.log',
+    level=logging.INFO,
+    format='%(asctime)s - %(levelname)s - %(message)s'
+)
+
+# Global list to store test results
+test_results = []
+
+
+# ----------------------------
+# HOOK: pytest_configure
+# ----------------------------
+def pytest_configure(config):
+    logging.info("[HOOK] Pytest is configuring the test run.")
+
+
+# ----------------------------
+# HOOK: pytest_sessionstart
+# ----------------------------
+def pytest_sessionstart(session):
+    logging.info("[HOOK] Test session is starting...")
+
+
+# ----------------------------
+# HOOK: pytest_runtest_setup
+# ----------------------------
+def pytest_runtest_setup(item):
+    logging.info(f"[HOOK] Setting up test: {item.name}")
+
+
+# ----------------------------
+# HOOK: pytest_runtest_teardown
+# ----------------------------
+def pytest_runtest_teardown(item):
+    logging.info(f"[HOOK] Tearing down test: {item.name}")
+
+
+# ----------------------------
+# HOOK: pytest_fixture_setup
+# ----------------------------
+def pytest_fixture_setup(fixturedef, request):
+    logging.info(f"[HOOK] Setting up fixture: {fixturedef.scope}::{fixturedef.baseid}")
+
+
+# ----------------------------
+# HOOK: pytest_exception_interact
+# ----------------------------
+def pytest_exception_interact(node, call, report):
+    logging.error(f"[HOOK] Exception in test: {node.name}")
+    logging.error(f"        Error: {call.excinfo.value}")
+
+
+# ----------------------------
+# HOOK: pytest_report_teststatus
+# ----------------------------
+def pytest_report_teststatus(report):
+    if report.when == "call":
+        test_results.append({
+            "name": report.nodeid,
+            "outcome": report.outcome
+        })
+        if report.failed:
+            logging.info(f"[HOOK] Test {report.nodeid} FAILED.")
+        elif report.passed:
+            logging.info(f"[HOOK] Test {report.nodeid} PASSED.")
+        elif report.skipped:
+            logging.info(f"[HOOK] Test {report.nodeid} SKIPPED.")
+
+
+# ----------------------------
+# HOOK: pytest_terminal_summary
+# ----------------------------
+def pytest_terminal_summary(terminalreporter, exitstatus):
+    report_file = "test_report.txt"
+    with open(report_file, "w") as f:
+        f.write("=== Test Report Summary ===\\n")
+        for result in test_results:
+            f.write(f"{result['name']}: {result['outcome'].upper()}\\n")
+        f.write(f"\\nTotal Tests: {len(test_results)}\\n")
+        passed = sum(1 for r in test_results if r['outcome'] == 'passed')
+        failed = sum(1 for r in test_results if r['outcome'] == 'failed')
+        skipped = sum(1 for r in test_results if r['outcome'] == 'skipped')
+        f.write(f"Passed: {passed}, Failed: {failed}, Skipped: {skipped}\\n")
+
+    logging.info("[HOOK] Test report written to test_report.txt")
