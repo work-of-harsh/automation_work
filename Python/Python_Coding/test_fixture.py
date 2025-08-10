@@ -13,3 +13,10 @@ def test_a(fix):
 def test_b(fix):
     print(f"met b: {fix}")
     assert fix != 1  # This will fail for fix=1
+
+
+
+@pytest.mark.parametrize("x,y",[(1, 'a'), (2, 'b'), (3, 'c')])
+def test_example(x,y):
+    print(f"{x}  {y}")
+
