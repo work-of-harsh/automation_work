@@ -45,3 +45,84 @@
 2025-08-10 18:44:52,025 - INFO - [HOOK] Test session is starting...
 2025-08-10 18:45:33,768 - INFO - [HOOK] Pytest is configuring the test run.
 2025-08-10 18:45:33,777 - INFO - [HOOK] Test session is starting...
+2025-08-23 11:16:26,839 - INFO - [HOOK] Pytest is configuring the test run.
+2025-08-23 11:16:26,933 - INFO - [HOOK] Test session is starting...
+2025-08-23 11:16:26,980 - INFO - [HOOK] Setting up test: test_rightPyramid
+2025-08-23 11:16:26,980 - INFO - [HOOK] Setting up fixture: session::
+2025-08-23 11:16:26,980 - INFO - [HOOK] Setting up fixture: session::
+2025-08-23 11:16:26,980 - INFO - [HOOK] Setting up fixture: session::
+2025-08-23 11:16:26,980 - INFO - [HOOK] Setting up fixture: session::
+2025-08-23 11:16:26,995 - INFO - [HOOK] Test Pattern.py::test_rightPyramid PASSED.
+2025-08-23 11:16:27,026 - INFO - [HOOK] Tearing down test: test_rightPyramid
+2025-08-23 11:16:46,651 - INFO - [HOOK] Pytest is configuring the test run.
+2025-08-23 11:16:46,776 - INFO - [HOOK] Test session is starting...
+2025-08-23 11:16:46,792 - INFO - [HOOK] Setting up test: test_rightPyramid
+2025-08-23 11:16:46,792 - INFO - [HOOK] Setting up fixture: session::
+2025-08-23 11:16:46,792 - INFO - [HOOK] Setting up fixture: session::
+2025-08-23 11:16:46,792 - INFO - [HOOK] Setting up fixture: session::
+2025-08-23 11:16:46,792 - INFO - [HOOK] Setting up fixture: session::
+2025-08-23 11:16:46,807 - INFO - [HOOK] Test Pattern.py::test_rightPyramid PASSED.
+2025-08-23 11:16:46,807 - INFO - [HOOK] Tearing down test: test_rightPyramid
+2025-08-23 11:17:06,728 - INFO - [HOOK] Pytest is configuring the test run.
+2025-08-23 11:17:06,728 - INFO - [HOOK] Test session is starting...
+2025-08-23 11:17:06,760 - INFO - [HOOK] Setting up test: test_rightPyramid
+2025-08-23 11:17:06,760 - INFO - [HOOK] Setting up fixture: session::
+2025-08-23 11:17:06,760 - INFO - [HOOK] Setting up fixture: session::
+2025-08-23 11:17:06,760 - INFO - [HOOK] Setting up fixture: session::
+2025-08-23 11:17:06,760 - INFO - [HOOK] Setting up fixture: session::
+2025-08-23 11:17:06,760 - INFO - [HOOK] Test Pattern.py::test_rightPyramid PASSED.
+2025-08-23 11:17:06,760 - INFO - [HOOK] Tearing down test: test_rightPyramid
+2025-08-23 11:26:14,132 - INFO - [HOOK] Pytest is configuring the test run.
+2025-08-23 11:26:14,179 - INFO - [HOOK] Test session is starting...
+2025-08-23 11:26:14,210 - INFO - [HOOK] Setting up test: test_rightPyramid
+2025-08-23 11:26:14,210 - INFO - [HOOK] Setting up fixture: session::
+2025-08-23 11:26:14,210 - INFO - [HOOK] Setting up fixture: session::
+2025-08-23 11:26:14,210 - INFO - [HOOK] Setting up fixture: session::
+2025-08-23 11:26:14,210 - INFO - [HOOK] Setting up fixture: session::
+2025-08-23 11:26:14,226 - INFO - [HOOK] Test Pattern.py::test_rightPyramid PASSED.
+2025-08-23 11:26:14,226 - INFO - [HOOK] Tearing down test: test_rightPyramid
+2025-08-23 11:26:34,693 - INFO - [HOOK] Pytest is configuring the test run.
+2025-08-23 11:26:34,693 - INFO - [HOOK] Test session is starting...
+2025-08-23 11:26:34,724 - INFO - [HOOK] Setting up test: test_rightPyramid
+2025-08-23 11:26:34,740 - INFO - [HOOK] Setting up fixture: session::
+2025-08-23 11:26:34,740 - INFO - [HOOK] Setting up fixture: session::
+2025-08-23 11:26:34,740 - INFO - [HOOK] Setting up fixture: session::
+2025-08-23 11:26:34,740 - INFO - [HOOK] Setting up fixture: session::
+2025-08-23 11:26:34,740 - INFO - [HOOK] Test Pattern.py::test_rightPyramid PASSED.
+2025-08-23 11:26:34,740 - INFO - [HOOK] Tearing down test: test_rightPyramid
+2025-08-23 11:27:16,361 - INFO - [HOOK] Pytest is configuring the test run.
+2025-08-23 11:27:16,376 - INFO - [HOOK] Test session is starting...
+2025-08-23 11:27:16,408 - INFO - [HOOK] Setting up test: test_rightPyramid
+2025-08-23 11:27:16,408 - INFO - [HOOK] Setting up fixture: session::
+2025-08-23 11:27:16,408 - INFO - [HOOK] Setting up fixture: session::
+2025-08-23 11:27:16,408 - INFO - [HOOK] Setting up fixture: session::
+2025-08-23 11:27:16,408 - INFO - [HOOK] Setting up fixture: session::
+2025-08-23 11:27:16,408 - INFO - [HOOK] Test Pattern.py::test_rightPyramid PASSED.
+2025-08-23 11:27:16,408 - INFO - [HOOK] Tearing down test: test_rightPyramid
+2025-08-23 11:34:45,719 - INFO - [HOOK] Pytest is configuring the test run.
+2025-08-23 11:34:45,734 - INFO - [HOOK] Test session is starting...
+2025-08-23 11:34:45,906 - INFO - [HOOK] Setting up test: test_centerPyramid
+2025-08-23 11:34:45,906 - INFO - [HOOK] Setting up fixture: session::
+2025-08-23 11:34:45,906 - INFO - [HOOK] Setting up fixture: session::
+2025-08-23 11:34:45,906 - INFO - [HOOK] Setting up fixture: session::
+2025-08-23 11:34:45,906 - INFO - [HOOK] Setting up fixture: session::
+2025-08-23 11:34:45,906 - INFO - [HOOK] Test Pattern.py::test_centerPyramid PASSED.
+2025-08-23 11:34:45,906 - INFO - [HOOK] Tearing down test: test_centerPyramid
+2025-08-23 11:35:02,988 - INFO - [HOOK] Pytest is configuring the test run.
+2025-08-23 11:35:03,004 - INFO - [HOOK] Test session is starting...
+2025-08-23 11:35:03,019 - INFO - [HOOK] Setting up test: test_centerPyramid
+2025-08-23 11:35:03,019 - INFO - [HOOK] Setting up fixture: session::
+2025-08-23 11:35:03,019 - INFO - [HOOK] Setting up fixture: session::
+2025-08-23 11:35:03,019 - INFO - [HOOK] Setting up fixture: session::
+2025-08-23 11:35:03,019 - INFO - [HOOK] Setting up fixture: session::
+2025-08-23 11:35:03,019 - INFO - [HOOK] Test Pattern.py::test_centerPyramid PASSED.
+2025-08-23 11:35:03,035 - INFO - [HOOK] Tearing down test: test_centerPyramid
+2025-08-23 11:35:53,906 - INFO - [HOOK] Pytest is configuring the test run.
+2025-08-23 11:35:53,906 - INFO - [HOOK] Test session is starting...
+2025-08-23 11:35:53,938 - INFO - [HOOK] Setting up test: test_centerPyramid
+2025-08-23 11:35:53,938 - INFO - [HOOK] Setting up fixture: session::
+2025-08-23 11:35:53,938 - INFO - [HOOK] Setting up fixture: session::
+2025-08-23 11:35:53,938 - INFO - [HOOK] Setting up fixture: session::
+2025-08-23 11:35:53,938 - INFO - [HOOK] Setting up fixture: session::
+2025-08-23 11:35:53,938 - INFO - [HOOK] Test Pattern.py::test_centerPyramid PASSED.
+2025-08-23 11:35:53,938 - INFO - [HOOK] Tearing down test: test_centerPyramid

@@ -1,5 +1,5 @@
 class Parent():
-    def __init__(self):
+    def __init__(self):   #__name__ are system defined access modifires names in python
         self.__private = "Parent private"
         self._protected = "Parent protected"
 
@@ -13,7 +13,7 @@ class Parent():
 
 class Child(Parent):
     def __init__(self):
-        super().__init__()  #super().__init__() is used to access the parent class’s constructor data
+        super().__init__()  #super().__init__() is used to access the parent class’s constructor data in case of overriding.
         self.__private = "Child private"  # ❌ Does NOT override parent's private
         self._protected = "Child protected"   # ✅ Overrides
 

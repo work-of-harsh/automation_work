@@ -29,3 +29,5 @@ print(b)
 a=[1,3,2,4]
 a.pop(1)   #1 is index
 print(a)
+a.clear()
+print(a)

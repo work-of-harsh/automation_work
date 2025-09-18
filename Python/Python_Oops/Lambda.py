@@ -24,7 +24,8 @@ try:
 except:              #except only runs when try fails.
     print("error")
 else:                    #runs when try dosent fail
-    print("else")
+    print("else")          #there can be only one else
+
 
 finally:
     print("done")

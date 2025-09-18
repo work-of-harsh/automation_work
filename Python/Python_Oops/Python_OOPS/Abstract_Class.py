@@ -19,7 +19,7 @@ class a(ABC):     #if two methods are defined in parent abstract class, both met
 
 class b(a):                          #inhereting the abstract class
     def add(self):
-        print(self.value+10)
+        print(self.value+10)   # super().__init__() is not needed because we didn’t override __init__.
 
     def sub(self):
         print(self.value-10)
@@ -33,7 +33,7 @@ class c(a):                         # inhereting the abstract class
         print(self.value - 100)
 
 
-obj1=b(100)
+obj1=b(100)  # Calls a.__init__(self, 20)
 obj1.add()
 obj1.sub()
 

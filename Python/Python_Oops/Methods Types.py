@@ -51,7 +51,7 @@ obj.met1()      #python translates it as car.met1(obj), that is why passing obj 
 
 #3.Parent classes (if any)
 
-
+print(obj.model)
 #accessing instance variable from class method.
 obj1=car(6)
 obj1.met2a(obj1)   #obj1 is passed as argument as "class method" met2a is using instance.
